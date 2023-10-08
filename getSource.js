@@ -101,6 +101,5 @@ async function readLog(driver, pageName) {
     setTimeout(() => {
         readLog(driver, "Log231006-01_CMCMA 11 1.5%_CMT_NG")
     }, 14000)
-
     
 })();
