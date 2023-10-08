@@ -76,12 +76,12 @@ async function readLog(driver, pageName) {
                     outputJson[0]["Title"]  = jsonData[0][logNo];
                     outputJson[0]["Operator"]  = jsonData[1][logNo];
                     outputJson[0]["Description"]  = jsonData[2][logNo];
-                    const filename = `tableData_${i}.json`;
+                    const filename = `table-data/tableData_${i}.json`;
                     fs.writeFileSync(filename, JSON.stringify(outputJson, null, 2));
                     console.log(`Table data written to ${filename}`);
                     continue
                 }
-                const filename = `tableData_${i}.json`;
+                const filename = `table-data/tableData_${i}.json`;
                 fs.writeFileSync(filename, JSON.stringify(jsonData, null, 2));
                 console.log(`Table data written to ${filename}`);
             }
