@@ -1,4 +1,5 @@
 const { By, until } = require('selenium-webdriver');
+const fs = require('fs');
 
 module.exports = async function getLogNames(driver) {
     try {
