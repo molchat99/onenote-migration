@@ -33,22 +33,6 @@ module.exports = async function readLog(driver, pageName) {
                 const tableHtml = await tableElement.getAttribute('outerHTML');
                 const jsonTable = HtmlTableToJson.parse(tableHtml);
                 let jsonData = jsonTable.results;
-                jsonData = jsonData[0]
-                if(i == 5) {
-                    const outputJson = [{
-                        "Log no.": logNo,
-                        "Title": "",
-                        "Operator": "",
-                        "Description": ""
-                    }];
-                    outputJson[0]["Title"]  = jsonData[0][logNo];
-                    outputJson[0]["Operator"]  = jsonData[1][logNo];
-                    outputJson[0]["Description"]  = jsonData[2][logNo];
-                    const jsonPath = __dirname + `/table-data/${pageName}/tableData_${i}.json`;
-                    fs.writeFileSync(jsonPath, JSON.stringify(outputJson, null, 2));
-                    console.log(`Table data written to ${jsonPath}`);
-                    continue
-                }
                 const jsonPath = __dirname + `/table-data/${pageName}/tableData_${i}.json`;
                 fs.writeFileSync(jsonPath, JSON.stringify(jsonData, null, 2));
                 console.log(`Table data written to ${jsonPath}`);
