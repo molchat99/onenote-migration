@@ -1,0 +1,38 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "",
+      "layer height [µm]": "200",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "5",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "6",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "Washing/drying process": "Dipped print head into and out of 5% PEGDA-PBS solution about 3 times, then captured the big droplet with a paper towel to dry (didn't dry completely)",
+      "status": "success",
+      "comment": "One very small air bubble, but otherwise came out nicely and laminated well (even pressurized air didn't move it)",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "",
+      "layer height [µm]": "\"",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "\"",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "\"",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "Washing/drying process": "\"",
+      "status": "fail",
+      "comment": "Huge air bubble",
+      "next steps": "What is the root cause of this?? Something with the viscosity of the liquid? Too much movement of the print head?  TRY STRAINING THE ACRYLIC INK - getting bigger particles out might make the ink's properties closer to the transparent ink, so more similar printing parameters and behavior",
+      "pictures": ""
+    }
+  ]
+]

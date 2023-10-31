@@ -1,0 +1,22 @@
+[
+  [
+    {
+      "Name": "Luk-Transparent",
+      "Polymer": "Pegda700",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0,1",
+      "CTartrazine [mM]": "0",
+      "Solvent": "PBS",
+      "Beads Mio/ml": ""
+    },
+    {
+      "Name": "Luk-fluorescent",
+      "Polymer": "",
+      "cpolymer [v%]": "",
+      "cLAP [wt%]": "",
+      "CTartrazine [mM]": "",
+      "Solvent": "",
+      "Beads Mio/ml": "0.036"
+    }
+  ]
+]

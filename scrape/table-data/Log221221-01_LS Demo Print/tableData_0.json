@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T1-221221-2",
+      "layer height [µm]": "500",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "35",
+      "texposure_pos2 [s]": "/",
+      "texposure_pos3 [s]": "/",
+      "texposure_pos4 [s]": "/",
+      "zSpeed": "100",
+      "status": "",
+      "comment": "\"washing step after centrifugation\" Ca. 8 layers printed, not enough ink",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T1-221221-3",
+      "layer height [µm]": "500",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "35",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "100",
+      "status": "",
+      "comment": "\"strained\" Only 1 layer printed, construct removed from platform due to high speed during zhop",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "T1-221221-4",
+      "layer height [µm]": "500",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "35",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "100",
+      "status": "",
+      "comment": "\"centrifuged w/o washing\" 8 layers printed, not enough ink (2.5 mL) After second layer, construct not fully attached to platform (hanging), despite circumstances process was continued",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

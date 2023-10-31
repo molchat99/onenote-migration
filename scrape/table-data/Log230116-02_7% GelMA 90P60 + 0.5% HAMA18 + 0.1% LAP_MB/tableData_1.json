@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Name": "T2-230116",
+      "Polymer": "GelMA HAMA",
+      "cpolymer [v%]": "7 0.5",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "/",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "",
+      "Polymer": "",
+      "cpolymer [v%]": "",
+      "cLAP [wt%]": "",
+      "CTartrazine [mM]": "",
+      "Solvent": ""
+    }
+  ]
+]

@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230224_dog bone_v6_3x_distance 3mm.stl  OR  230224_dog bone_v6_2x_distance 3mm.stl  OR  230224_dog bone_1x.stl  3rd layer always skipped. Only 2 mm high.  T2/T3/T1": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230224_dog bone_v6_3x_distance 3mm.stl  OR  230224_dog bone_v6_2x_distance 3mm.stl  OR  230224_dog bone_1x.stl  3rd layer always skipped. Only 2 mm high.  T2/T3/T1": "01",
+      "Position": "230224_dog bone_v6_3x_distance 3mm.stl  OR  230224_dog bone_v6_2x_distance 3mm.stl  OR  230224_dog bone_1x.stl  3rd layer always skipped. Only 2 mm high.",
+      "Filename of .stl": "",
+      "Link to .stl-file": "T2/T3/T1"
+    }
+  ],
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "230224_dog bone_v6_3x_distance 3mm.stl  OR  230224_dog bone_v6_2x_distance 3mm.stl  OR  230224_dog bone_1x.stl  3rd layer always skipped. Only 2 mm high.",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "T2/T3/T1"
+    }
+  ]
+]

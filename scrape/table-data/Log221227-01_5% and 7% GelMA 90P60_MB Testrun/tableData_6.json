@@ -1,0 +1,34 @@
+[
+  [
+    {
+      "Position": "1",
+      "File name of material .Json": "Rousselot GelMA 90P60_5%",
+      "Material parameters": "temperature:37, temperatureTolerance:5, brightness:500, exposureTime:45, zHop:3, zHopSpeed:50, washCount:0, washTime:0, dabCount:0, projectionDelay:0.5"
+    },
+    {
+      "Position": "2",
+      "File name of material .Json": "Rousselot GelMA 90P60_5%_47.5s",
+      "Material parameters": "temperature:37, temperatureTolerance:5, brightness:500, exposureTime:47.5, zHop:3, zHopSpeed:50, washCount:0, washTime:0, dabCount:0, projectionDelay:0.5"
+    },
+    {
+      "Position": "3",
+      "File name of material .Json": "Rousselot GelMA 90P60_5%_47.5s",
+      "Material parameters": "temperature:37, temperatureTolerance:5, brightness:500, exposureTime:47.5, zHop:3, zHopSpeed:50, washCount:0, washTime:0, dabCount:0, projectionDelay:0.5"
+    },
+    {
+      "Position": "4",
+      "File name of material .Json": "Rousselot GelMA 90P60_7%",
+      "Material parameters": "temperature:37, temperatureTolerance:5, brightness:500, exposureTime:33, zHop:3, zHopSpeed:100, washCount:0, washTime:0, dabCount:0, projectionDelay:0.5"
+    },
+    {
+      "Position": "5",
+      "File name of material .Json": "Rousselot GelMA 90P60_7%",
+      "Material parameters": "temperature:37, temperatureTolerance:5, brightness:500, exposureTime:33, zHop:3, zHopSpeed:100, washCount:0, washTime:0, dabCount:0, projectionDelay:0.5"
+    },
+    {
+      "Position": "6",
+      "File name of material .Json": "Rousselot GelMA 90P60_7%_35s",
+      "Material parameters": "temperature:37, temperatureTolerance:5, brightness:500, exposureTime:35, zHop:3, zHopSpeed:50, washCount:0, washTime:0, dabCount:0, projectionDelay:0.5"
+    }
+  ]
+]

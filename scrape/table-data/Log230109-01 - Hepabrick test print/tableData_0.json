@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "65% GelMA, 0.1 % LAP",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "50",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "100",
+      "status": "success",
+      "comment": "Global offset -1.4 for homing with glass.  2 mL.  Prints okay -  air bubble in middle print, slight overcuring; adhered strongly to printhead, very soft overall",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

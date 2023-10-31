@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T210603 LD",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "8",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Failed",
+      "comment": "Ca. 50 mL ink. Aborted after layer 56 due to insufficient ink. Material too soft and not fixed to printhead well enough. Are mostly detached an stuck in ink vat. Abysmal definition due to yielding/movement of material during printhead movements.",
+      "next steps": "Buffing of T210603 with 50 mL Demo01 (211025 SD). Resulting pooled ink with tartrazine concentration diluted to ca. 1 mM. Increase of exposure time 8 -> 15 s per layer and introduction of layer override for first layer: 30 s exposure.",
+      "pictures": "-"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "Mix T210603 LD + Demo01 (211025 LD)",
+      "layer height [µm]": "100",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "15",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Partial success",
+      "comment": "Ca. 100 mL mix ink (10% PEGDA700 +0.5% LAP +1 mM tartrazine). Aborted after layer 145 due to obvious defects in printing. All constructs attached to printhead still but significant overcuring. Closes cavities for small diameter tubes and results in plenty of defects at rims of prints. Prints collected and post-cured as tubes with biggest inner diameter seem usable for the demo.",
+      "next steps": "Decrease of exposure time 15 s -> 12 s per layer.",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "Mix T210603 LD + Demo01 (211025 LD)",
+      "layer height [µm]": "100",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "12",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Partial success",
+      "comment": "Remaining ink of run #2. Print run to the end. Results similar to previous run but overcuring/defects less pronounced. However, only biggest inner diameter tubes open/perfusable.",
+      "next steps": "Further decrease of exposure time recommended with used ink, but plan is to use Demo02 ink for tomorrow's demo print.",
+      "pictures": ""
+    }
+  ]
+]

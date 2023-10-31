@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Name": "CMCMA4",
+      "Polymer": "Carboxymethyl chitosan",
+      "cpolymer [v%]": "2",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "-",
+      "Solvent": "PBS"
+    },
+    {
+      "Name": "CMCMA5",
+      "Polymer": "Carboxymethyl chitosan",
+      "cpolymer [v%]": "2",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "-",
+      "Solvent": "PBS"
+    }
+  ]
+]

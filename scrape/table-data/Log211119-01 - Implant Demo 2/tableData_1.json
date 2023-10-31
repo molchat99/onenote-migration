@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Name": "Scaffold Ink V1",
+      "Polymer": "GelMA",
+      "cpolymer [v%]": "5",
+      "cLAP [wt%]": "0.5",
+      "CTartrazine [mM]": "2",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "(211115 MF)",
+      "Polymer": "PEGDA700",
+      "cpolymer [v%]": "5",
+      "cLAP [wt%]": "",
+      "CTartrazine [mM]": "",
+      "Solvent": ""
+    }
+  ]
+]

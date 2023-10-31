@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "Demo03",
+      "layer height [µm]": "100",
+      "no. bottom layers": "2",
+      "texp.bottom  [s]": "4",
+      "texp.layer [s]": "3",
+      "zSpeed": "150",
+      "zHop [mm]": "",
+      "status": "",
+      "comment": "Success, but some overcuring. Maybe bottom layer exposure too long?",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "0",
+      "texp.layer [s]": "3",
+      "zSpeed": "150",
+      "zHop [mm]": "",
+      "status": "",
+      "comment": "Overcuring still observed",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texp.layer [s]": "1",
+      "zSpeed": "",
+      "zHop [mm]": "3",
+      "status": "Fail",
+      "comment": "Slight reductio of overcurring relative to first two prints",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texp.layer [s]": "",
+      "zSpeed": "250",
+      "zHop [mm]": "4",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

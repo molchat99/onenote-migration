@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T220222-1",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Aborted after later 1.",
+      "comment": "Material settings of T2 changed from 35 s exposure to 40 s. Global offset is 0.5. Vol. T1: 600 µL (layer 1). Printed layer looks too thin. It appears that global offset of 0.5  is not enough.",
+      "next steps": "Setting global offset to 0.8.",
+      "pictures": "1"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T220222-1/T220215-2",
+      "layer height [µm]": "100",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "40",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Partial success.",
+      "comment": "Vol. T1: rest #1 +200 µL (layer 1), +400 L (layer 3). Vol. T2: 400 µL (layer 2). Printed base layer looks okay with thickness. HAMA channels in 1/6 constructs not complete since HAMA ink distribution was off. Otherwise, good result. Constructs collected for analysis.",
+      "next steps": "Cleaning of T1 ink vat.",
+      "pictures": "3"
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "T220222-1/T220215-2",
+      "layer height [µm]": "100",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "40",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Partial success.",
+      "comment": "Vol. T1: 600 µL (layer 1), +400 L (layer 3). Vol. T2: 500 µL (layer 2). Ca. 1.5 mm air bubble in base layer of 1/6 constructs. Otherwise good result, all other constructs complete. Enhanced manual washing after layer 2 (not just dipping, but also rinsing of printed channels with 3x 1 mL fresh DPBS). Constructs collected for analysis.",
+      "next steps": "Testing of 1.2% HAMA11/12.",
+      "pictures": "3"
+    },
+    {
+      "Attempt No.": "4",
+      "Ink": "T220222-1/T220224-1",
+      "layer height [µm]": "100",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "30",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Success.",
+      "comment": "Vol. T1: rest #3 +200 µL (layer 1), 400 L (layer 3). Vol. T2: 500 µL (layer 2). HAMA channels stable/are not disturbed by washing/dapping. Enhanced manual washing after layer 2 (not just dipping, but also rinsing of printed channels with 3x 1 mL fresh DPBS). Perfect result. Constructs collected for analysis.",
+      "next steps": "",
+      "pictures": "3"
+    }
+  ]
+]

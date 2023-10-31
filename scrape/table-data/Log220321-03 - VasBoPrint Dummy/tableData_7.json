@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T220222-1/T220321-2",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "",
+      "comment": "Global offset is 1.2 to compensate for printhead indentation during Z homing. Vol. T1: 600 µL (layer 1), + ca. 300 L (layer 3). Vol. T2: rest Log220321-02 run #1 +200 µL (layer 2). Layer 1 too high! Why??? Coverage with T2 in layer 2 incomplete/not centred: 3/6 with incomplete channels. Not enough ink for layer 3: 1/6 prints incomplete and discarded. Other 5 prints collected in 2 mL tube with 1.8 mL DPBS for rolling/gluing trials.",
+      "next steps": "-",
+      "pictures": "3"
+    }
+  ]
+]

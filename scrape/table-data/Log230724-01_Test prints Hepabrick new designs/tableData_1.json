@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "Name": "HB-ink",
+      "Polymer": "GelMA 90P60",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0",
+      "Solvent": "Williams E Medium w/o PR w/o FCS"
+    },
+    {
+      "Name": "HB-ink",
+      "Polymer": "GelMA 90P60",
+      "cpolymer [v%]": "5",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0",
+      "Solvent": "Williams E Medium w/o PR w/o FCS"
+    },
+    {
+      "Name": "",
+      "Polymer": "",
+      "cpolymer [v%]": "",
+      "cLAP [wt%]": "",
+      "CTartrazine [mM]": "",
+      "Solvent": ""
+    }
+  ]
+]

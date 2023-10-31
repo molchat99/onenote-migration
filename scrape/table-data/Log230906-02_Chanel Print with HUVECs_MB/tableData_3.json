@@ -1,0 +1,41 @@
+[
+  [
+    {
+      "Printing attempt Position Filename of .stl Link to .stl-file  Material/Washing/Drying 1-4 01 230724_Bulk for CMCMA channels_2x_MB  7% GelMA A32 1-4 02 230724_CMCMA channels_2x_MB  1.5% CMCMA4+5 + tartrazine + HUVECs": "Printing attempt",
+      "Printing attempt": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Printing attempt Position Filename of .stl Link to .stl-file  Material/Washing/Drying 1-4 01 230724_Bulk for CMCMA channels_2x_MB  7% GelMA A32 1-4 02 230724_CMCMA channels_2x_MB  1.5% CMCMA4+5 + tartrazine + HUVECs": "1-4",
+      "Printing attempt": "01",
+      "Position": "230724_Bulk for CMCMA channels_2x_MB",
+      "Filename of .stl": "",
+      "Link to .stl-file": "7% GelMA A32"
+    },
+    {
+      "Printing attempt Position Filename of .stl Link to .stl-file  Material/Washing/Drying 1-4 01 230724_Bulk for CMCMA channels_2x_MB  7% GelMA A32 1-4 02 230724_CMCMA channels_2x_MB  1.5% CMCMA4+5 + tartrazine + HUVECs": "1-4",
+      "Printing attempt": "02",
+      "Position": "230724_CMCMA channels_2x_MB",
+      "Filename of .stl": "",
+      "Link to .stl-file": "1.5% CMCMA4+5 + tartrazine + HUVECs"
+    }
+  ],
+  [
+    {
+      "Printing attempt": "1-4",
+      "Position": "01",
+      "Filename of .stl": "230724_Bulk for CMCMA channels_2x_MB",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "7% GelMA A32"
+    },
+    {
+      "Printing attempt": "1-4",
+      "Position": "02",
+      "Filename of .stl": "230724_CMCMA channels_2x_MB",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "1.5% CMCMA4+5 + tartrazine + HUVECs"
+    }
+  ]
+]

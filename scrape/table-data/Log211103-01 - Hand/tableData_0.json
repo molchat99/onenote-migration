@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "HandINK",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "15",
+      "texp.bottom  [s]": "15",
+      "zSpeed": "150",
+      "status": "Fail",
+      "comment": "Print fell off after layer 500",
+      "next steps": "Close bench while printing to keep print moist longer",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "handINK",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "15",
+      "texp.bottom  [s]": "15",
+      "zSpeed": "150",
+      "status": "fail",
+      "comment": "Printfell off after layer 400",
+      "next steps": "Use humidifyer",
+      "pictures": ""
+    }
+  ]
+]

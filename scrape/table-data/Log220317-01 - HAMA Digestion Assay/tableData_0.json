@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T220215-2",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "40",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Success",
+      "comment": "Global offset is 0.0 (use of Anycubic-style metal printhead). Vol. T1: 500 µL. First 9/10 layers disabled -> printing of ca. 1 mm layer in one step. All discs complete and well-defined and height seems OK. Collection of all discs in 2 mL tube with DPBS until digestion assay.",
+      "next steps": "Repeat print with T220215-2.",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T220224-1",
+      "layer height [µm]": "100",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Success",
+      "comment": "Vol. T2: 500 µL. First 9/10 layers disabled -> printing of ca. 1 mm layer in one step. All discs complete and well-defined and height seems OK. Collection of all discs in 2 mL tube with DPBS until digestion assay.",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

@@ -1,0 +1,32 @@
+[
+  [
+    {
+      "Attempt No.": "01",
+      "Ink": "DEMO-01",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texp.layer [s]": "3",
+      "zSpeed": "150",
+      "zHop [mm]": "4",
+      "status": "success",
+      "comment": "No overcuring",
+      "next steps": "Clean up, measurment by keyence on 28.10.2021",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texp.layer [s]": "",
+      "zSpeed": "",
+      "zHop [mm]": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T1-230906 T2-230906",
+      "layer height [µm]": "100",
+      "no. bottom layers": "/",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "Layer0-3: inactivated (resulting in 500 µm layer height in layer4) Layer4: 15 Layer10: 15 (resulting in 0.6 mm layer height in layer10) Layer11-13: inactivated (resulting in 0.4 mm layer height in layer14) Layer14: 15",
+      "texposure_pos2 [s]": "Layer5: 40 (layer height of channels: 0.1 mm) Layer6-9: 20 (layer heights of channels: 0.2, 0.3, 0.4, 0.5 mm)",
+      "zSpeed": "50",
+      "status": "Partial success",
+      "comment": "•GelMA A32 is well defined and nicely printed with 15s exposure •Ink1: 200 µL first (base), then 200 µL were added for the second (top) layer  •First GelMA layer is dipped in PBS, rinsed with pipet and cleaned/dried with Kimtech Wipe  •Ink2: 200 µL are used •0.1 & 0.2 mm channels look good & sufficiently well defined; also the width of the channels corresponds to the designed one •More definition for other channels desired, they look more like wavy lines  •Dilation of channels at the margins is observed",
+      "next steps": "•Switch spot in VAT, clean print head •Increase exposure time:  •0.3 - 0.5 mm: 25s •!Remember! not to go over the channels with Kimtech Wipe, only dip and rinse with PBS",
+      "pictures": "Layer 0-4: Layer 5-9: Layer 10-14: Keyence:"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T1-230906 T2-230906",
+      "layer height [µm]": "100",
+      "no. bottom layers": "/",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "Layer0-3: inactivated (resulting in 500 µm layer height in layer4) Layer4: 15 Layer10: 15 (resulting in 0.6 mm layer height in layer10) Layer11-13: inactivated (resulting in 0.4 mm layer height in layer14) Layer14: 15",
+      "texposure_pos2 [s]": "Layer5: 40 (layer height of channels: 0.1 mm) Layer6: 20 (layer heights of channels: 0.2 mm) Layer7-9: 25 (layer heights of channels: 0.3, 0.4, 0.5 mm)",
+      "zSpeed": "50",
+      "status": "Success",
+      "comment": "•Ink1: 200 µL first (base), then 200 µL were added for the second (top) layer   •Ink2: 200 µL are used •Dilation of channels at the margins  •0.3 - 0.5 mm channels look much better and defined but the width exceeds the designed channel size --> overcuring?",
+      "next steps": "•Position in VAT is changed, Print head is cleaned  •reduce exposure of 0.3 - 0.5 mm channels to 23s",
+      "pictures": "With the bare eye prints on the print head look exactly as in print attempt 1  Keyence:"
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "T1-230906 T2-230906",
+      "layer height [µm]": "100",
+      "no. bottom layers": "/",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "Layer0-3: inactivated (resulting in 500 µm layer height in layer4) Layer4: 15 Layer10: 15 (resulting in 0.6 mm layer height in layer10) Layer11-13: inactivated (resulting in 0.4 mm layer height in layer14) Layer14: 15",
+      "texposure_pos2 [s]": "Layer5: 40 (layer height of channels: 0.1 mm) Layer6: 20 (layer heights of channels: 0.2 mm) Layer7-9: 23 (layer heights of channels: 0.3, 0.4, 0.5 mm)",
+      "zSpeed": "50",
+      "status": "Success",
+      "comment": "•Ink1: 200 µL first (base), then 200 µL were added for the second (top) layer   •Ink2: 200 µL are used •0.3 - 0.5 mm channes still too thick --> maybe the problem is not overcuring but the opposite: they are too soft and get compressed/squeezed by the following GelMA layer resulting in an enlarged width",
+      "next steps": "•Position in VAT is changed, Print head is cleaned  •increase exposure time of 0.3 - 0.5 mm channels to 27s",
+      "pictures": "With the bare eye prints on the print head look exactly as in print attempt 1  Keyence:"
+    },
+    {
+      "Attempt No.": "4",
+      "Ink": "T1-230906 T2-230906",
+      "layer height [µm]": "100",
+      "no. bottom layers": "/",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "Layer0-3: inactivated (resulting in 500 µm layer height in layer4) Layer4: 15 Layer10: 15 Layer11-13: inactivated (resulting in 0.4 mm layer height in layer14) Layer14: 15",
+      "texposure_pos2 [s]": "Layer5: 40 (layer height of channels: 0.1 mm) Layer6: 20 (layer heights of channels: 0.2 mm) Layer7-9: 27 (layer heights of channels: 0.2 mm)",
+      "zSpeed": "50",
+      "status": "Success",
+      "comment": "•Ink1: 200 µL first (base), then 200 µL were added for the second (top) layer   •Ink2: 200 µL are used •0.3 - 0.5 µm channels look very defined and straight compared to previous printing attempts, shape integrity is kept BUT channels are way too thick  •Dilation of channels seems to be reduced, may be a distorted observation caused by the enlarged channel size (difference between the dilated margins & the enlarged channels is smaller)  •All in all: results of all printing attempts are good enough",
+      "next steps": "•Clean everything",
+      "pictures": "With the bare eye prints on the print head look exactly as in print attempt 1  Keyence:"
+    }
+  ]
+]

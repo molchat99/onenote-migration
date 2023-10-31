@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T231002-1 + 10M/mL in 300 uL ink -- 3M",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "25",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "500",
+      "status": "",
+      "comment": "Glass-assisted homing. Offset -1.4. 300 µL T1.  2 discs are cut because of ink amount. 10 discs are fine",
+      "next steps": "end",
+      "pictures": ""
+    }
+  ]
+]

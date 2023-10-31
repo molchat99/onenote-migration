@@ -1,0 +1,56 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T211115 MF",
+      "layer height [µm]": "100",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "20",
+      "texp.layer [s]": "2.5",
+      "zSpeed": "50 First layer 30",
+      "status": "Partial success",
+      "comment": "Ink from previous run + ca. 10 mL fresh ink (37 °C, 1x used, 40 µm strained). All other settings as previous run.   Print looks fine. Rinsing print on printhead under running warm water, especially rinsing the channel structures to remove remaining ink before postcuring. Detachment with metal spatula under running tap water. Postcuring 15 min RT.",
+      "next steps": "-",
+      "pictures": "Channels perfused with Trypan Blue"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "\"",
+      "layer height [µm]": "\"",
+      "no. bottom layers": "\"",
+      "texp.bottom  [s]": "\"",
+      "texp.layer [s]": "\"",
+      "zSpeed": "\"",
+      "status": "\"",
+      "comment": "Ink from previous run. All other settings as previous run.   Material thinner at the \"nose\". During printing process or caused by material stretching during washing? Print discarded.",
+      "next steps": "•",
+      "pictures": "•"
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "\"",
+      "layer height [µm]": "\"",
+      "no. bottom layers": "\"",
+      "texp.bottom  [s]": "\"",
+      "texp.layer [s]": "\"",
+      "zSpeed": "\"",
+      "status": "\"",
+      "comment": "Ink from previous run. All other settings as previous run.   Results as Run 1.",
+      "next steps": "•",
+      "pictures": "•"
+    },
+    {
+      "Attempt No.": "4",
+      "Ink": "\"",
+      "layer height [µm]": "\"",
+      "no. bottom layers": "\"",
+      "texp.bottom  [s]": "\"",
+      "texp.layer [s]": "\"",
+      "zSpeed": "\"",
+      "status": "\"",
+      "comment": "Ink from previous run. All other settings as previous run.   Results as Run 2 (thinner material at the \"nose\"). Maybe caused by the FEP film sticking to the already printed part and being stretched?",
+      "next steps": "•",
+      "pictures": "-"
+    }
+  ]
+]

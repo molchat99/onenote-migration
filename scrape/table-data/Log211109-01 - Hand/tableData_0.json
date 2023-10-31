@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "Hand-Ink",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "10",
+      "texp.bottom  [s]": "0-4 = 15s/ 5-9 = 7",
+      "Texposure_pos1 [s]": "3",
+      "Texposure_pos2 [s]": "•",
+      "Texposure_pos3 [s]": "•",
+      "Texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Fail",
+      "comment": "Fell off before layer 300",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "Hand-Ink",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "20",
+      "texp.bottom  [s]": "7",
+      "Texposure_pos1 [s]": "3",
+      "Texposure_pos2 [s]": "•",
+      "Texposure_pos3 [s]": "•",
+      "Texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Fail",
+      "comment": "Fell off before layer 200",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "Hand-Ink",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "15",
+      "texp.bottom  [s]": "15",
+      "Texposure_pos1 [s]": "4",
+      "Texposure_pos2 [s]": "•",
+      "Texposure_pos3 [s]": "•",
+      "Texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Fail",
+      "comment": "Fell off before layer 200",
+      "next steps": "Design poles to hold skin in place",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "4",
+      "Ink": "Hand-Ink",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "15",
+      "texp.bottom  [s]": "15",
+      "Texposure_pos1 [s]": "4",
+      "Texposure_pos2 [s]": "•",
+      "Texposure_pos3 [s]": "•",
+      "Texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Fail",
+      "comment": "After the base nothing is attached",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

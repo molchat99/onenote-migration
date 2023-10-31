@@ -1,0 +1,69 @@
+[
+  [
+    {
+      "Printing attempt Position Filename of .stl Link to .stl-file  Material/Washing/Drying 1 01 230724_Bulk for CMCMA channels_2x_MB  7% GelMA A32 1 02 230724_CMCMA channels_2x_MB  1.5% CMCMA4+5 + microbeads 2 01 Bulk for channels_16x_new_MB  7% GelMA A32 2 02 Channels_16x_new_MB  1.5% CMCMA4+5 + microbeads": "Printing attempt",
+      "Printing attempt": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Printing attempt Position Filename of .stl Link to .stl-file  Material/Washing/Drying 1 01 230724_Bulk for CMCMA channels_2x_MB  7% GelMA A32 1 02 230724_CMCMA channels_2x_MB  1.5% CMCMA4+5 + microbeads 2 01 Bulk for channels_16x_new_MB  7% GelMA A32 2 02 Channels_16x_new_MB  1.5% CMCMA4+5 + microbeads": "1",
+      "Printing attempt": "01",
+      "Position": "230724_Bulk for CMCMA channels_2x_MB",
+      "Filename of .stl": "",
+      "Link to .stl-file": "7% GelMA A32"
+    },
+    {
+      "Printing attempt Position Filename of .stl Link to .stl-file  Material/Washing/Drying 1 01 230724_Bulk for CMCMA channels_2x_MB  7% GelMA A32 1 02 230724_CMCMA channels_2x_MB  1.5% CMCMA4+5 + microbeads 2 01 Bulk for channels_16x_new_MB  7% GelMA A32 2 02 Channels_16x_new_MB  1.5% CMCMA4+5 + microbeads": "1",
+      "Printing attempt": "02",
+      "Position": "230724_CMCMA channels_2x_MB",
+      "Filename of .stl": "",
+      "Link to .stl-file": "1.5% CMCMA4+5 + microbeads"
+    },
+    {
+      "Printing attempt Position Filename of .stl Link to .stl-file  Material/Washing/Drying 1 01 230724_Bulk for CMCMA channels_2x_MB  7% GelMA A32 1 02 230724_CMCMA channels_2x_MB  1.5% CMCMA4+5 + microbeads 2 01 Bulk for channels_16x_new_MB  7% GelMA A32 2 02 Channels_16x_new_MB  1.5% CMCMA4+5 + microbeads": "2",
+      "Printing attempt": "01",
+      "Position": "Bulk for channels_16x_new_MB",
+      "Filename of .stl": "",
+      "Link to .stl-file": "7% GelMA A32"
+    },
+    {
+      "Printing attempt Position Filename of .stl Link to .stl-file  Material/Washing/Drying 1 01 230724_Bulk for CMCMA channels_2x_MB  7% GelMA A32 1 02 230724_CMCMA channels_2x_MB  1.5% CMCMA4+5 + microbeads 2 01 Bulk for channels_16x_new_MB  7% GelMA A32 2 02 Channels_16x_new_MB  1.5% CMCMA4+5 + microbeads": "2",
+      "Printing attempt": "02",
+      "Position": "Channels_16x_new_MB",
+      "Filename of .stl": "",
+      "Link to .stl-file": "1.5% CMCMA4+5 + microbeads"
+    }
+  ],
+  [
+    {
+      "Printing attempt": "1",
+      "Position": "01",
+      "Filename of .stl": "230724_Bulk for CMCMA channels_2x_MB",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "7% GelMA A32"
+    },
+    {
+      "Printing attempt": "1",
+      "Position": "02",
+      "Filename of .stl": "230724_CMCMA channels_2x_MB",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "1.5% CMCMA4+5 + microbeads"
+    },
+    {
+      "Printing attempt": "2",
+      "Position": "01",
+      "Filename of .stl": "Bulk for channels_16x_new_MB",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "7% GelMA A32"
+    },
+    {
+      "Printing attempt": "2",
+      "Position": "02",
+      "Filename of .stl": "Channels_16x_new_MB",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "1.5% CMCMA4+5 + microbeads"
+    }
+  ]
+]

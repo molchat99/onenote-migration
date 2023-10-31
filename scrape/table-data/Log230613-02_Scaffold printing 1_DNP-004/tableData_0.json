@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T230331-1/T230613-01",
+      "layer height [µm]": "500",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "20",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "100/50",
+      "status": "Failed",
+      "comment": "MM printing set-up: homing all positions with 1.9 mm glasses on positions 1 and 4 (material positions). Placing all vats (three metal vats, 3D-printed plastic carrier with ceramic sponge). Vol.: 500 µL T2; 500 µL T1. Pause after layer 1 and washing/dapping: printed structures (stalks) connected -> print aborted.",
+      "next steps": "Decrease T1 exposure time.",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T230331-1/T230613-01",
+      "layer height [µm]": "500",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "15",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "25",
+      "zSpeed": "100/50",
+      "status": "Failed",
+      "comment": "Inks from printrun 1. Still too much overcuring between printed stalks. Dapping insufficient: too much liquid left around prints. Print aborted after layer 3. Both scaffolds collected in DPBS and microscoped. Then incubation in DPBS with 5K U/mL lysozyme.",
+      "next steps": "-",
+      "pictures": ""
+    }
+  ]
+]

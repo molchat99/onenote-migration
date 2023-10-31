@@ -1,5 +1,6 @@
 const { By, until } = require('selenium-webdriver');
 const fs = require('fs');
+const he = require('he');
 
 module.exports = async function getLogNames(driver) {
     try {
@@ -13,11 +14,9 @@ module.exports = async function getLogNames(driver) {
 
         const sourceLogs = [];
         for (const element of elements) {
-            const innerHTML = await element.getAttribute('innerHTML');
-            sourceLogs.push(innerHTML);
+            let innerHTML = await element.getAttribute('innerHTML');
+            sourceLogs.push(he.decode(innerHTML));
         }
-
-        console.log(sourceLogs);
         fs.writeFileSync("sourceLogs.json", JSON.stringify(sourceLogs, null, 2));
     } catch (error) {
         console.error('Error:', error);

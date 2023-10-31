@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Name": "Hand-Ink",
+      "Polymer": "GelMa",
+      "cpolymer [v%]": "5",
+      "cLAP [wt%]": "0.5",
+      "CTartrazine [mM]": "1",
+      "Solvent": "PBS"
+    },
+    {
+      "Name": "",
+      "Polymer": "PEGDA700",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "-",
+      "CTartrazine [mM]": "-",
+      "Solvent": "-"
+    }
+  ]
+]

@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T1-230825",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "/",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "19",
+      "texposure_pos2 [s]": "/",
+      "texposure_pos3 [s]": "/",
+      "texposure_pos4 [s]": "/",
+      "zSpeed": "50",
+      "status": "Success",
+      "comment": "0.4 mL of fresh ink are used Constructs look ok, they are not perfectly defined but easily separated and remain in shape  Bioink seems to be rather soft   One disc is stuck on the FEP film - no problem as only 12 discs are required for the experiment",
+      "next steps": "Position in VAT is changed, print head is cleaned  First controls are moved into ECGM2 medium (ULA plate), then the constructs are placed in the lysozyme solutions with rising concentration",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T2-230825",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "/",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "19",
+      "texposure_pos2 [s]": "/",
+      "texposure_pos3 [s]": "/",
+      "texposure_pos4 [s]": "/",
+      "zSpeed": "50",
+      "status": "Success",
+      "comment": "0.4 mL of fresh ink are used Constructs look very good, they are perfectly defined, easily separated and remain in shape   Two discs are stuck on the FEP film - no problem as only 12 discs are required for the experiment",
+      "next steps": "Everything is cleaned",
+      "pictures": ""
+    }
+  ]
+]

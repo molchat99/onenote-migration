@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T1-221123",
+      "layer height [µm]": "500",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "12",
+      "texposure_pos2 [s]": "/",
+      "texposure_pos3 [s]": "/",
+      "texposure_pos4 [s]": "/",
+      "zSpeed": "150",
+      "status": "",
+      "comment": "everything went smoothly, no overburn, constructs look nicely except the cut (wrong STL!)",
+      "next steps": "New STL selected 1,2 mL fresh ink added",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T1-221123",
+      "layer height [µm]": "500",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "12",
+      "texposure_pos2 [s]": "/",
+      "texposure_pos3 [s]": "/",
+      "texposure_pos4 [s]": "/",
+      "zSpeed": "150",
+      "status": "",
+      "comment": "Constructs less nice, but round  most likely because of residuals on platform from previous print after removal of constructs from platform: tiny residuals of the constructs remained on platform",
+      "next steps": "Platform washed  1,2 mL fresh ink added",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "T1-221123",
+      "layer height [µm]": "300",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "7.5",
+      "texposure_pos2 [s]": "/",
+      "texposure_pos3 [s]": "/",
+      "texposure_pos4 [s]": "/",
+      "zSpeed": "150",
+      "status": "",
+      "comment": "Little overcuring, constructs look ok",
+      "next steps": "Exposure time reduced to 7 sec, platform washed, 1,2 mL fresh ink added",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "4",
+      "Ink": "T1-221123",
+      "layer height [µm]": "300",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "7",
+      "texposure_pos2 [s]": "/",
+      "texposure_pos3 [s]": "/",
+      "texposure_pos4 [s]": "/",
+      "zSpeed": "150",
+      "status": "",
+      "comment": "No overcuring, constructs look nice",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

@@ -1,0 +1,17 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T211012-1 AT",
+      "layer height [µm]": "100",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "15",
+      "texp.layer [s]": "3",
+      "zSpeed": "30",
+      "status": "Partial success",
+      "comment": "Rest ink from previous run. No layer overrides except for layer 0: 15 s exposure. No pause. Print mostly detached from printhead/sticking in reservoir, except for two small parts at tip and back.",
+      "next steps": "Next printing day: increase bottom layer exposure from 15 to 20 sec.",
+      "pictures": "y"
+    }
+  ]
+]

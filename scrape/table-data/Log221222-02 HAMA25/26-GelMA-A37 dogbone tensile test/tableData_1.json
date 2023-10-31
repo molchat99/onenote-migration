@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "Name": "HAMA25",
+      "Polymer": "Hyaluronic acid",
+      "cpolymer [v%]": "2",
+      "cLAP [wt%]": "0,1",
+      "CTartrazine [mM]": "",
+      "Solvent": "PBS"
+    },
+    {
+      "Name": "HAMA26",
+      "Polymer": "Hyaluronic acid",
+      "cpolymer [v%]": "2",
+      "cLAP [wt%]": "0,1",
+      "CTartrazine [mM]": "",
+      "Solvent": "PBS"
+    },
+    {
+      "Name": "GelMA-A37",
+      "Polymer": "Gelatin",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0,1",
+      "CTartrazine [mM]": "",
+      "Solvent": "PBS"
+    }
+  ]
+]

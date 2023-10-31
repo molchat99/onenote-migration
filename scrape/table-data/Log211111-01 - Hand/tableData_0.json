@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "Hand-Ink2.5",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "7",
+      "texp.bottom  [s]": "7",
+      "Texposure_pos1 [s]": "4",
+      "Texposure_pos2 [s]": "•",
+      "Texposure_pos3 [s]": "•",
+      "Texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Fail",
+      "comment": "Ater layer 420 exp Time = 6sek Part fell off bbevorlayer 480 probably at 420",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "Hand-Ink2.5",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "7",
+      "texp.bottom  [s]": "7",
+      "Texposure_pos1 [s]": "4",
+      "Texposure_pos2 [s]": "•",
+      "Texposure_pos3 [s]": "•",
+      "Texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Fail",
+      "comment": "Fell off bofore layer 500",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "Hand-Ink2.5",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "7",
+      "texp.bottom  [s]": "7",
+      "Texposure_pos1 [s]": "5",
+      "Texposure_pos2 [s]": "•",
+      "Texposure_pos3 [s]": "•",
+      "Texposure_pos4 [s]": "•",
+      "zSpeed": "100",
+      "status": "Fail at layer 500",
+      "comment": "25ml ink at layer 100 added",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "Texposure_pos1 [s]": "",
+      "Texposure_pos2 [s]": "",
+      "Texposure_pos3 [s]": "",
+      "Texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

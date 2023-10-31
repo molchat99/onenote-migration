@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T220728-1",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Success",
+      "comment": "Global offset is -1.5 Vol.: 1 mL ink. Time: 10:55. 5 prints complete 1 slightly damaged during lift off and transferred to 2 mL Eppi with 1.6 mL DPBS. The prints adhered stronger to \"new\" printhead and some minor damages occured when picking them up. One print imaged with Keyence in CoLab.",
+      "next steps": "Print again, with remaining ink in dish + ~ 0.1 ml fresh ink",
+      "pictures": "-"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T220728-1",
+      "layer height [µm]": "100",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Success",
+      "comment": "All prints complete (same problem as in #1 with stronger attachment) and transferred into 2 mL Eppi with 1.6 mL DPBS. One print imaged with Keyence in CoLab.",
+      "next steps": "-",
+      "pictures": "-"
+    }
+  ]
+]

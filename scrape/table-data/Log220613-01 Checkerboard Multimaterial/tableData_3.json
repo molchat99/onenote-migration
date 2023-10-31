@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 Checkerboard_5mm_3x_mat01_V04 https://cellbricks.sharepoint.com/:u:/s/TechDEV/EaA0fR7e66NGoqlPBa0yV20B90_yZoLEPHMuWQ67zWjuXQ?e=1WMEax LuK_Transparent 02    03    04 Checkerboard_5mm_3x_mat02_V04  LuK_Transparent with pink ink": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 Checkerboard_5mm_3x_mat01_V04 https://cellbricks.sharepoint.com/:u:/s/TechDEV/EaA0fR7e66NGoqlPBa0yV20B90_yZoLEPHMuWQ67zWjuXQ?e=1WMEax LuK_Transparent 02    03    04 Checkerboard_5mm_3x_mat02_V04  LuK_Transparent with pink ink": "01",
+      "Position": "Checkerboard_5mm_3x_mat01_V04",
+      "Filename of .stl": "https://cellbricks.sharepoint.com/:u:/s/TechDEV/EaA0fR7e66NGoqlPBa0yV20B90_yZoLEPHMuWQ67zWjuXQ?e=1WMEax",
+      "Link to .stl-file": "LuK_Transparent"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 Checkerboard_5mm_3x_mat01_V04 https://cellbricks.sharepoint.com/:u:/s/TechDEV/EaA0fR7e66NGoqlPBa0yV20B90_yZoLEPHMuWQ67zWjuXQ?e=1WMEax LuK_Transparent 02    03    04 Checkerboard_5mm_3x_mat02_V04  LuK_Transparent with pink ink": "02",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 Checkerboard_5mm_3x_mat01_V04 https://cellbricks.sharepoint.com/:u:/s/TechDEV/EaA0fR7e66NGoqlPBa0yV20B90_yZoLEPHMuWQ67zWjuXQ?e=1WMEax LuK_Transparent 02    03    04 Checkerboard_5mm_3x_mat02_V04  LuK_Transparent with pink ink": "03",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 Checkerboard_5mm_3x_mat01_V04 https://cellbricks.sharepoint.com/:u:/s/TechDEV/EaA0fR7e66NGoqlPBa0yV20B90_yZoLEPHMuWQ67zWjuXQ?e=1WMEax LuK_Transparent 02    03    04 Checkerboard_5mm_3x_mat02_V04  LuK_Transparent with pink ink": "04",
+      "Position": "Checkerboard_5mm_3x_mat02_V04",
+      "Filename of .stl": "",
+      "Link to .stl-file": "LuK_Transparent with pink ink"
+    }
+  ],
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "Checkerboard_5mm_3x_mat01_V04",
+      "Link to .stl-file": "https://cellbricks.sharepoint.com/:u:/s/TechDEV/EaA0fR7e66NGoqlPBa0yV20B90_yZoLEPHMuWQ67zWjuXQ?e=1WMEax",
+      "Material/Washing/Drying": "LuK_Transparent"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "Checkerboard_5mm_3x_mat02_V04",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "LuK_Transparent with pink ink"
+    }
+  ]
+]

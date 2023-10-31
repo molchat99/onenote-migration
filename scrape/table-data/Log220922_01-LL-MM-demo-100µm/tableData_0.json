@@ -1,0 +1,72 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "Demo_01, Demo_01_pink",
+      "layer height [µm]": "300, 300",
+      "GLOBAL OFFSET": "0.0",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "2.5",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "4",
+      "zSpeed": "250",
+      "status": "partial success",
+      "comment": "Low layer adheasion",
+      "next steps": "Higher exp. time",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "\"",
+      "layer height [µm]": "\"",
+      "GLOBAL OFFSET": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "3",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "4.5",
+      "zSpeed": "\"",
+      "status": "success",
+      "comment": "•white areas in coloring --> freshly mixed ink --> white particles could not set down •consistency of print --> detachment from PP not easily possible",
+      "next steps": "100µm leyer height for transparent ink",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "\"",
+      "layer height [µm]": "100,300",
+      "GLOBAL OFFSET": "\"",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "\"",
+      "status": "success",
+      "comment": "•Slightly better consistency •Still white areas in coloring  •Pink layer at 300µm, layer could easily be detached by touching",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "4",
+      "Ink": "\"",
+      "layer height [µm]": "\"",
+      "GLOBAL OFFSET": "\"",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "\"",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

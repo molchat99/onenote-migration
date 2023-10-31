@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T220224-1",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Aborted after layer 1",
+      "comment": "Global offset is 1.1 to compensate for printhead indentation during Z homing (titrated per eye). Test run with 1x dummy for offset finding. Vol. T1: 200 µL. Bubble made hole in layer 1, but height seems OK. Problem with IR heating: does not switch back on after hitting \"Stop\" in \"Pause\" mode.",
+      "next steps": "Cleaning of T1 printing vat. Restart of machine with recalibration and re-setting. Printing with cells.",
+      "pictures": "1"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T220224-1/T220324-2",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "",
+      "comment": "Global offset is 0.6 to compensate for printhead indentation during Z homing (titrated per eye). Bioprinting with 6x constructs, MSCs in GelMA (T1) and HUVECs in HAMA (T2). Vol. T1: 600 µL (layer 1), +400 µL (layer 3). Vol. T2: 500 µL (layer 2). Inks of layers 2 and 3 not central -> 2/6 prints with missing material on one short side -> marked with \"x\". Detachment of prints from printhead with spatula not without damage to prints, GelMA sticks very tight. All constructs transferred to 24-ULA-wells with 500 µL 2x Hase in ECGM2. Plate put into incubator overnight for HAMA dissolution.",
+      "next steps": "",
+      "pictures": "3"
+    }
+  ]
+]

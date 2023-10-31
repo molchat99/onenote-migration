@@ -1,0 +1,72 @@
+[
+  [
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230505_DiffDiscs_14x_3x1mm_MB  2% HAMA18 and 2% HAMA26 were dissolved in DPBS on 230501MB 02 230505_DiffDiscs_14x_3x1mm_MB   03 230505_DiffDiscs_14x_3x1mm_MB   04 230505_DiffDiscs_14x_3x1mm_MB   05 230505_DiffDiscs_14x_3x1mm_MB": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230505_DiffDiscs_14x_3x1mm_MB  2% HAMA18 and 2% HAMA26 were dissolved in DPBS on 230501MB 02 230505_DiffDiscs_14x_3x1mm_MB   03 230505_DiffDiscs_14x_3x1mm_MB   04 230505_DiffDiscs_14x_3x1mm_MB   05 230505_DiffDiscs_14x_3x1mm_MB": "01",
+      "Position": "230505_DiffDiscs_14x_3x1mm_MB",
+      "Filename of .stl": "",
+      "Link to .stl-file": "2% HAMA18 and 2% HAMA26 were dissolved in DPBS on 230501MB"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230505_DiffDiscs_14x_3x1mm_MB  2% HAMA18 and 2% HAMA26 were dissolved in DPBS on 230501MB 02 230505_DiffDiscs_14x_3x1mm_MB   03 230505_DiffDiscs_14x_3x1mm_MB   04 230505_DiffDiscs_14x_3x1mm_MB   05 230505_DiffDiscs_14x_3x1mm_MB": "02",
+      "Position": "230505_DiffDiscs_14x_3x1mm_MB",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230505_DiffDiscs_14x_3x1mm_MB  2% HAMA18 and 2% HAMA26 were dissolved in DPBS on 230501MB 02 230505_DiffDiscs_14x_3x1mm_MB   03 230505_DiffDiscs_14x_3x1mm_MB   04 230505_DiffDiscs_14x_3x1mm_MB   05 230505_DiffDiscs_14x_3x1mm_MB": "03",
+      "Position": "230505_DiffDiscs_14x_3x1mm_MB",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230505_DiffDiscs_14x_3x1mm_MB  2% HAMA18 and 2% HAMA26 were dissolved in DPBS on 230501MB 02 230505_DiffDiscs_14x_3x1mm_MB   03 230505_DiffDiscs_14x_3x1mm_MB   04 230505_DiffDiscs_14x_3x1mm_MB   05 230505_DiffDiscs_14x_3x1mm_MB": "04",
+      "Position": "230505_DiffDiscs_14x_3x1mm_MB",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230505_DiffDiscs_14x_3x1mm_MB  2% HAMA18 and 2% HAMA26 were dissolved in DPBS on 230501MB 02 230505_DiffDiscs_14x_3x1mm_MB   03 230505_DiffDiscs_14x_3x1mm_MB   04 230505_DiffDiscs_14x_3x1mm_MB   05 230505_DiffDiscs_14x_3x1mm_MB": "05",
+      "Position": "230505_DiffDiscs_14x_3x1mm_MB",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    }
+  ],
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "230505_DiffDiscs_14x_3x1mm_MB",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "2% HAMA18 and 2% HAMA26 were dissolved in DPBS on 230501MB"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "230505_DiffDiscs_14x_3x1mm_MB",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "230505_DiffDiscs_14x_3x1mm_MB",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "230505_DiffDiscs_14x_3x1mm_MB",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "05",
+      "Filename of .stl": "230505_DiffDiscs_14x_3x1mm_MB",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    }
+  ]
+]

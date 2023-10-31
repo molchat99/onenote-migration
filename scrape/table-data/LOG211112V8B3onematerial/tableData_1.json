@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Name": "GiantInk",
+      "Polymer": "GIB",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0.5",
+      "CTartrazine [mM]": "2",
+      "Solvent": "PBS"
+    },
+    {
+      "Name": "GiantInk",
+      "Polymer": "GIB",
+      "cpolymer [v%]": "9",
+      "cLAP [wt%]": "0,5",
+      "CTartrazine [mM]": "2",
+      "Solvent": "RPMI"
+    }
+  ]
+]

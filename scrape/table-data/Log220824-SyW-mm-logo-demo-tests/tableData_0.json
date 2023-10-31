@@ -1,0 +1,38 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "Transparent and pink ink (let sit overnight, vortexed and then let sit in incubator for about 30 minutes)",
+      "layer height [µm]": "200",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "5",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "6",
+      "zSpeed": "",
+      "VARIABLE CHANGED": "Normal washing/drying, but re-homed!!",
+      "status": "fail",
+      "comment": "Bubbles in the pink layer (whyyy) and uneven coloring in the middle again (but color on the outside looks decent). Noticed there were bubbles in the pink ink before printing, though, so that may have been the issue",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "\"",
+      "layer height [µm]": "200",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "5",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "6",
+      "zSpeed": "",
+      "VARIABLE CHANGED": "0.6 global offset",
+      "status": "fail",
+      "comment": "Bubbles again, bad coloring (maybe worse)  Looked at under a microscope and found that first layer is much larger than it should be. Even if the transparent layers blend together!! Pink layer appears to be normal layer height of 200um",
+      "next steps": "Do some tests on first vs second vs third layer heights",
+      "pictures": ""
+    }
+  ]
+]

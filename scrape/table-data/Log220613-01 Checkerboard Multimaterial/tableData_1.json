@@ -1,0 +1,31 @@
+[
+  [
+    {
+      "Name": "Luk-Transparent",
+      "Polymer": "Pegda700",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0,1",
+      "CTartrazine [mM]": "0",
+      "Solvent": "PBS",
+      "Color [mg]": ""
+    },
+    {
+      "Name": "Luk-Pink",
+      "Polymer": "Pegda700",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0,1",
+      "CTartrazine [mM]": "0",
+      "Solvent": "PBS",
+      "Color [mg]": "Pink 250mg /50 ml"
+    },
+    {
+      "Name": "",
+      "Polymer": "",
+      "cpolymer [v%]": "",
+      "cLAP [wt%]": "",
+      "CTartrazine [mM]": "",
+      "Solvent": "",
+      "Color [mg]": ""
+    }
+  ]
+]

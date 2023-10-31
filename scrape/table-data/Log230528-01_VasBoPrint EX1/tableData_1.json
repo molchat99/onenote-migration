@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Name": "T230604-1",
+      "Polymer": "GelMA 90P60",
+      "cpolymer [v%]": "8",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "-",
+      "Solvent": "DPBS (230425 MB) with MSCs"
+    },
+    {
+      "Name": "T230604-1",
+      "Polymer": "HAMA11/12 (1:1)",
+      "cpolymer [v%]": "1.2",
+      "cLAP [wt%]": "0.05",
+      "CTartrazine [mM]": "•",
+      "Solvent": "ECGM2 (230428 MB) with HUVECs"
+    }
+  ]
+]

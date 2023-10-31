@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "Demo2",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "0",
+      "Texposure_pos1 [s]": "4",
+      "Texposure_pos2 [s]": "•",
+      "Texposure_pos3 [s]": "•",
+      "Texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Aborted before finsh for test reasons",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "Texposure_pos1 [s]": "",
+      "Texposure_pos2 [s]": "",
+      "Texposure_pos3 [s]": "",
+      "Texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "Success",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

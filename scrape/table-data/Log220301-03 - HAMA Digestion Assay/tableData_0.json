@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T220215-2",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "40",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Failed",
+      "comment": "Global offset is 0.5 (compensating indentation of gen2/3 printhead during homing). Vol. T1: 500 µL. First 9/10 layers disabled -> printing of ca. 1 mm layer in one step. All discs complete and well-defined but too thin (by eye: approx. 0.5 mm instead of 1 mm). Z calibration again shows to not be robust.",
+      "next steps": "Increase global offset to 1.0.",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T220215-2",
+      "layer height [µm]": "100",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "40",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Partial success",
+      "comment": "Vol. T1: rest #1. 14/16 discs complete, 2x are missing some parts on outer side due to too little ink volume. But height for all discs seems good. Collection of 14x discs in 60 mm dish with DPBS until digestion assay.",
+      "next steps": "Repeat print with T220215-2.",
+      "pictures": "-"
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "T220224-1",
+      "layer height [µm]": "100",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Success",
+      "comment": "Vol. T1: 500 µL. All discs complete. Two discs damaged during removal from printhead. Collection of all discs in 60 mm dish with DPBS until digestion assay.",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

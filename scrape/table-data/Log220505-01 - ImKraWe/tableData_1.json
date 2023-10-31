@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Name": "Implant Blocker Ink V1",
+      "Polymer": "Rousselot GelMA 90P60",
+      "cpolymer [v%]": "9",
+      "cLAP [wt%]": "0.2",
+      "CTartrazine [mM]": "0.5",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "",
+      "Polymer": "HAMA 18",
+      "cpolymer [v%]": "0.5",
+      "cLAP [wt%]": "",
+      "CTartrazine [mM]": "",
+      "Solvent": ""
+    }
+  ]
+]

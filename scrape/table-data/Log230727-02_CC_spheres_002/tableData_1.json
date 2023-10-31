@@ -1,0 +1,22 @@
+[
+  [
+    {
+      "Name": "Q.Tartrazino  1:2 +spheres",
+      "Polymer": "PEGDA",
+      "cpolymer [v%]": "10%",
+      "cLAP [wt%]": "0.25",
+      "CTartrazine [mM]": "0.5",
+      "Solvent": "none",
+      "spheres": "40% v/v"
+    },
+    {
+      "Name": "Clear Ink 1:2",
+      "Polymer": "PEGDA",
+      "cpolymer [v%]": "10%",
+      "cLAP [wt%]": "0.25",
+      "CTartrazine [mM]": "0",
+      "Solvent": "PBS",
+      "spheres": ""
+    }
+  ]
+]

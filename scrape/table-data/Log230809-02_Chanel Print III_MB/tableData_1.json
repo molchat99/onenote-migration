@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Name": "T3-230809",
+      "Polymer": "GelMA A32 (230327MB)",
+      "cpolymer [v%]": "7",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "•",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T4-230809",
+      "Polymer": "CMCMA 4+5",
+      "cpolymer [v%]": "1.5",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0.2",
+      "Solvent": "DPBS + fluorescent microbeads (1:100; FluoSpheres polystyrene, 1µm, red (580/605); REF:F13083; LOT: 2021735)"
+    }
+  ]
+]

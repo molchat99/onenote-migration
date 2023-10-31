@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230215_EMoDisc_3x_3x6mm_3mm distance.stl  {  \"globalOffset\": -1.4,  \"washOffset\": 0,  \"hoverFactor\": 0.1,  \"endInWash\": false,  \"defaultXYSpeed\": 1000,  \"defaultZSpeed\": 500,  \"layerHeight\": 1,  \"switchDishHeight\": 60 } 01    01": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230215_EMoDisc_3x_3x6mm_3mm distance.stl  {  \"globalOffset\": -1.4,  \"washOffset\": 0,  \"hoverFactor\": 0.1,  \"endInWash\": false,  \"defaultXYSpeed\": 1000,  \"defaultZSpeed\": 500,  \"layerHeight\": 1,  \"switchDishHeight\": 60 } 01    01": "01",
+      "Position": "230215_EMoDisc_3x_3x6mm_3mm distance.stl",
+      "Filename of .stl": "",
+      "Link to .stl-file": "{  \"globalOffset\": -1.4,  \"washOffset\": 0,  \"hoverFactor\": 0.1,  \"endInWash\": false,  \"defaultXYSpeed\": 1000,  \"defaultZSpeed\": 500,  \"layerHeight\": 1,  \"switchDishHeight\": 60 }"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230215_EMoDisc_3x_3x6mm_3mm distance.stl  {  \"globalOffset\": -1.4,  \"washOffset\": 0,  \"hoverFactor\": 0.1,  \"endInWash\": false,  \"defaultXYSpeed\": 1000,  \"defaultZSpeed\": 500,  \"layerHeight\": 1,  \"switchDishHeight\": 60 } 01    01": "01",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230215_EMoDisc_3x_3x6mm_3mm distance.stl  {  \"globalOffset\": -1.4,  \"washOffset\": 0,  \"hoverFactor\": 0.1,  \"endInWash\": false,  \"defaultXYSpeed\": 1000,  \"defaultZSpeed\": 500,  \"layerHeight\": 1,  \"switchDishHeight\": 60 } 01    01": "01",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230215_EMoDisc_3x_3x6mm_3mm distance.stl  {  \"globalOffset\": -1.4,  \"washOffset\": 0,  \"hoverFactor\": 0.1,  \"endInWash\": false,  \"defaultXYSpeed\": 1000,  \"defaultZSpeed\": 500,  \"layerHeight\": 1,  \"switchDishHeight\": 60 } 01    01": "",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    }
+  ],
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "230215_EMoDisc_3x_3x6mm_3mm distance.stl",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "{  \"globalOffset\": -1.4,  \"washOffset\": 0,  \"hoverFactor\": 0.1,  \"endInWash\": false,  \"defaultXYSpeed\": 1000,  \"defaultZSpeed\": 500,  \"layerHeight\": 1,  \"switchDishHeight\": 60 }"
+    },
+    {
+      "Position": "01",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "01",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    }
+  ]
+]

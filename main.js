@@ -33,7 +33,7 @@ async function initDriver() {
       setTimeout(resolve, 12000);
     });
   
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < sourceLogs.length; i++) {
       console.log(`reading ${sourceLogs[i]}`);
       await readLog(driver, sourceLogs[i]);
       await new Promise((resolve) => {

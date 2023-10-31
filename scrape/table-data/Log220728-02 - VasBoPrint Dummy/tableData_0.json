@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Success",
+      "comment": "Continuation of Log220728-01. Global offset is -1.4. MF is printing. Vol. T1: 600 µL (layer 1), + 400 L (layer 3). Vol. T2: 500 µL (layer 2). Washing channels: dipping, then rinsing 5x1 mL with pipette, removing excess liquid with KimWipe (also TOUCHING channels). All 6 prints complete and collected in 2 mL tube with 1.6 mL DPBS for construct analysis.",
+      "next steps": "Keep identical settings but do a re-homing (all positions).",
+      "pictures": "-"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "",
+      "layer height [µm]": "100",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Partial success",
+      "comment": "Global offset is -1.4. DP is printing. Vol. T1: 600 µL (layer 1), + 400 L (layer 3). Vol. T2: 500 µL (layer 2). Washing channels: dipping, then rinsing 4x1 mL with pipette, removing excess liquid with KimWipe (also TOUCHING channels). All 6 prints complete and collected in 2 mL tube with 1.6 mL DPBS for construct analysis.",
+      "next steps": "-",
+      "pictures": "-"
+    }
+  ]
+]

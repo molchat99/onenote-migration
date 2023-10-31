@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "Hand-Ink2.5",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "7",
+      "texp.bottom  [s]": "7",
+      "Texposure_pos1 [s]": "4",
+      "Texposure_pos2 [s]": "•",
+      "Texposure_pos3 [s]": "•",
+      "Texposure_pos4 [s]": "•",
+      "zSpeed": "50",
+      "status": "success",
+      "comment": "Only last bits of fingers were missing",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "Texposure_pos1 [s]": "",
+      "Texposure_pos2 [s]": "",
+      "Texposure_pos3 [s]": "",
+      "Texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "Texposure_pos1 [s]": "",
+      "Texposure_pos2 [s]": "",
+      "Texposure_pos3 [s]": "",
+      "Texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "Texposure_pos1 [s]": "",
+      "Texposure_pos2 [s]": "",
+      "Texposure_pos3 [s]": "",
+      "Texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

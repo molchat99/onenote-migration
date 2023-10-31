@@ -1,0 +1,51 @@
+[
+  [
+    {
+      "Position Filename of .stl  Link to .stl-file 01 LayerThicknessZylinder1 Technology Experiments 02   03   04": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file"
+    },
+    {
+      "Position Filename of .stl  Link to .stl-file 01 LayerThicknessZylinder1 Technology Experiments 02   03   04": "01",
+      "Position": "LayerThicknessZylinder1",
+      "Filename of .stl": "Technology Experiments"
+    },
+    {
+      "Position Filename of .stl  Link to .stl-file 01 LayerThicknessZylinder1 Technology Experiments 02   03   04": "02",
+      "Position": "",
+      "Filename of .stl": ""
+    },
+    {
+      "Position Filename of .stl  Link to .stl-file 01 LayerThicknessZylinder1 Technology Experiments 02   03   04": "03",
+      "Position": "",
+      "Filename of .stl": ""
+    },
+    {
+      "Position Filename of .stl  Link to .stl-file 01 LayerThicknessZylinder1 Technology Experiments 02   03   04": "04",
+      "Position": "",
+      "Filename of .stl": ""
+    }
+  ],
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "LayerThicknessZylinder1",
+      "Link to .stl-file": "Technology Experiments"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    }
+  ]
+]

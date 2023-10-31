@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Name": "D-T1-221114",
+      "Polymer": "GelMA A30",
+      "cpolymer [v%]": "10 %",
+      "cLAP [wt%]": "0.1 %",
+      "CTartrazine [mM]": "",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "D-T2-221114",
+      "Polymer": "GelMA A30",
+      "cpolymer [v%]": "7 %",
+      "cLAP [wt%]": "0.1 %",
+      "CTartrazine [mM]": "",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "D-T3-221114",
+      "Polymer": "PEGDA 700",
+      "cpolymer [v%]": "10 %",
+      "cLAP [wt%]": "0.1 %",
+      "CTartrazine [mM]": "",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "D-T4-221114",
+      "Polymer": "PEGDA 700",
+      "cpolymer [v%]": "7 %",
+      "cLAP [wt%]": "0.1 %",
+      "CTartrazine [mM]": "",
+      "Solvent": "DPBS"
+    }
+  ]
+]

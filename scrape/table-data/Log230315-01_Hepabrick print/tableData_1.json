@@ -1,0 +1,22 @@
+[
+  [
+    {
+      "Name": "",
+      "Polymer": "GelMA",
+      "cpolymer [v%]": "5",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0",
+      "additives": "HEPES 25 mM",
+      "Solvent": "Williams E"
+    },
+    {
+      "Name": "",
+      "Polymer": "",
+      "cpolymer [v%]": "",
+      "cLAP [wt%]": "",
+      "CTartrazine [mM]": "",
+      "additives": "",
+      "Solvent": ""
+    }
+  ]
+]

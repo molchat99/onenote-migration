@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "1-15",
+      "Ink": "CC_mat01, CC_mat02, Demo01, Demo03",
+      "layer height [µm]": "100",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "4",
+      "texposure_pos2 [s]": "4",
+      "Base height": "3 mm",
+      "washing": "10x1s",
+      "zSpeed": "150",
+      "status": "fail",
+      "comment": "Several issues lead to failed prints: •Software  ○washing patterns 10x1s, 1x10s, 1x1s not working ○Washing \"hover factor\" not implemented --> first implementation also faulty --> 2nd iteration working  •Ink ○One batch (CC_mat01, 29.12.22 not printable --> reverted to old batch Demo01, Demo03 (date tbd) •Model design ○Several iterations to optimize printability (picture and link to model tbd!)",
+      "next steps": "Resolving all mentioned issues",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "16",
+      "Ink": "Demo01, Demo03",
+      "layer height [µm]": "\"",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "\"",
+      "texposure_pos2 [s]": "\"",
+      "Base height": "3 mm",
+      "washing": "10x1s",
+      "zSpeed": "\"",
+      "status": "success",
+      "comment": "--> base for prints on 30.12.",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "Base height": "",
+      "washing": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "Base height": "",
+      "washing": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

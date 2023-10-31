@@ -1,0 +1,72 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "Transparent and old pink ink",
+      "layer height [µm]": "200",
+      "GLOBAL OFFSET": "CHANGED FROM 0.7 TO 0.3!!!",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "4.5",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "6",
+      "zSpeed": "",
+      "status": "Partial success",
+      "comment": "Honestly the biggest problem is the lightness of the ink! My best guess on the issues I was having before was a too high exposure time for transparent ink because the first layer was so big that lowering that time made it seem like the 0.2mm layers couldn't cure at that time (but they can!!)",
+      "next steps": "Change CAD model to 0.3mm layers, see how color is affected",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "\"",
+      "layer height [µm]": "300",
+      "GLOBAL OFFSET": "0.3",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "success",
+      "comment": "Pretty nice, even coloring!",
+      "next steps": "Make new pink ink for a different day, raise layer height a different day!",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "\"",
+      "layer height [µm]": "\"",
+      "GLOBAL OFFSET": "\"",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "success",
+      "comment": "Able to replicate above :)",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "4",
+      "Ink": "\"",
+      "layer height [µm]": "\"",
+      "GLOBAL OFFSET": "\"",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "success",
+      "comment": "\"",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

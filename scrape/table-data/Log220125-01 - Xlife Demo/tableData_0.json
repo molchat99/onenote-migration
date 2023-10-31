@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "Demo 02 Pool",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "4",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Failed",
+      "comment": "Ca. 60 mL ink pool. Layer override for first layer: 30 s exposure. Partial print detachment from printhead, partial delamination, a lot of defects. Exposure time seems to be too low.",
+      "next steps": "-",
+      "pictures": "-"
+    }
+  ]
+]

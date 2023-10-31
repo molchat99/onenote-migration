@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "Position": "1",
+      "File name of material .Json": "Implant Blocker Ink V4_enhanced temp tol + zHop",
+      "Material parameters": "\"temperature\": 40, \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 12,  \"zHop\": 2,  \"zHopSpeed\": 15,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    },
+    {
+      "Position": "2",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    },
+    {
+      "Position": "3",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    },
+    {
+      "Position": "4",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    }
+  ]
+]

@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T220601-3",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "25",
+      "texposure_pos1 [s]": "15",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "20",
+      "status": "",
+      "comment": "Global offset is -1.5 to compensate glass-supported homing procedure. 500 + 500 (layer 5) µL T3. Pause after layer 4. 21/21 complete after printing with minor surface defects. Dipping of printhead in DPBS for washing. Minor damage to bottom sides during collection from printhead with spatula. Post-curing 30 min in FormCure at RT in petri dish with DPBS. Packing in 2 ml Eppi with DPBS.",
+      "next steps": "Try to print Emo discs with residual ink (Log220601-03).",
+      "pictures": ""
+    }
+  ]
+]

@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T220509-4",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Failed",
+      "comment": "Global offset is -1.5 to compensate glass-supported homing procedure. Printing of only first layer of GelMA with 1x construct. Almost nothing visible on printhead except for small, thin, very soft/slimy gel layer -> ink contains LAP. Offset problem instead?",
+      "next steps": "Increase global offset to check if this is the cause for crappy prints.",
+      "pictures": "1"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T220509-4",
+      "layer height [µm]": "100",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Failed",
+      "comment": "Global offset is -1.0. Printing of only first layer of GelMA with 1x construct. Print better visible on printhead but ill-defined and very soft/slimy. Also slimy pieces of it in ink vat which are baked stuck there. No offset problem but ink is problem. It seems to be less reactive than it should be.",
+      "next steps": "Increase exposure time of GelMA ink from 30 to 60 s.",
+      "pictures": "1"
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "T220509-4",
+      "layer height [µm]": "100",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "60",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Partial success",
+      "comment": "Global offset is -1.0. Printing of only first layer of GelMA with 1x construct. Print well visible on printhead, complete, well-defined and not slimy. Nothing in ink vat -> T220509-4 is less reactive than it should be -> longer exposure times needed",
+      "next steps": "Continue bioprinting with remaining cell-laden inks (see Log220510-01).",
+      "pictures": "1"
+    }
+  ]
+]

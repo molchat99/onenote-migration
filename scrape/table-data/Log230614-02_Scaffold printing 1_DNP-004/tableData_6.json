@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "Position": "1",
+      "File name of material .Json": "CMCMA7 2%_0.1% LAP_1mm_MM print",
+      "Material parameters": "{  \"temperature\": 37, \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 15,  \"zHop\": 3,  \"zHopSpeed\": 100,  \"washCount\": 3,  \"washTime\": 1,  \"dabCount\": 1,  \"projectionDelay\": 1 }"
+    },
+    {
+      "Position": "2",
+      "File name of material .Json": "-",
+      "Material parameters": "-"
+    },
+    {
+      "Position": "3",
+      "File name of material .Json": "-",
+      "Material parameters": "-"
+    },
+    {
+      "Position": "4",
+      "File name of material .Json": "Rousselot 5% GelMA 90P60_0.5% HAMA26_0.1% LAP_MM print",
+      "Material parameters": "{  \"temperature\": 37, \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 25,  \"zHop\": 3,  \"zHopSpeed\": 100,  \"washCount\": 3,  \"washTime\": 1,  \"dabCount\": 1,  \"projectionDelay\": 1 }"
+    }
+  ]
+]

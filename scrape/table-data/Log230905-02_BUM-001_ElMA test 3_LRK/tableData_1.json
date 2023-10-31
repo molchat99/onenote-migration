@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "Name": "T1 (ElMA CTRL)",
+      "Polymer": "GelMA 90P60 HAMA 26",
+      "cpolymer [v%]": "5 0.5",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0.2",
+      "Solvent": "DPBS DPBS"
+    },
+    {
+      "Name": "T2 (ElMA LO)",
+      "Polymer": "GelMA 90P60 HAMA 26 ElMA",
+      "cpolymer [v%]": "5 0.5 0.2",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0.2",
+      "Solvent": "DPBS DPBS ddH20"
+    },
+    {
+      "Name": "T3 (ElMA HI)",
+      "Polymer": "GelMA 90P60 HAMA 26 ElMA",
+      "cpolymer [v%]": "5 0.5 1",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0.2",
+      "Solvent": "DPBS DPBS ddH20"
+    }
+  ]
+]

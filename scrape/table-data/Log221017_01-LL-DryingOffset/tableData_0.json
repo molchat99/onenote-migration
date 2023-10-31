@@ -1,0 +1,72 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "Demo03",
+      "layer height [µm]": "100",
+      "GLOBAL OFFSET": "0.0",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "4",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "150",
+      "status": "success",
+      "comment": "Dried directly after printing @Offset=+50 µm and @Offset=+0 µm --> does not damage print",
+      "next steps": "Washing + drying",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "\"",
+      "layer height [µm]": "\"",
+      "GLOBAL OFFSET": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "4",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "\"",
+      "status": "fail",
+      "comment": "Dried after washing @Offset=+50 µm and @Offset=+0 µm --> does not dry, since fluid is not touching ceramic",
+      "next steps": "-",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "GLOBAL OFFSET": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "GLOBAL OFFSET": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

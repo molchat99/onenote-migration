@@ -1,0 +1,18 @@
+[
+  [
+    {
+      "Hardware Parts": "Printhead",
+      "Position 1": "large",
+      "Position 2": "",
+      "Position 3": "",
+      "Position 4": ""
+    },
+    {
+      "Hardware Parts": "Ink reservoir/Drying",
+      "Position 1": "AL001",
+      "Position 2": "AL002",
+      "Position 3": "WASH (P001)",
+      "Position 4": "DAB (standard)"
+    }
+  ]
+]

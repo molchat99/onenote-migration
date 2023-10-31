@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T2-230807/T1-230807",
+      "layer height [µm]": "500",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "18",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "18",
+      "zSpeed": "",
+      "status": "",
+      "comment": "MM printing set-up: homing all positions with 1.9 mm glasses on positions 1 and 4 (material positions). Offset: -1.4. Vol.: 500 µL T1; 500 µL T2. Pause after layer 1 and washing/dapping: printed structures okay, continued until end. Manually dried with Kimwipe after each dabbing. Very soft GelMA - rim printed but not visible, microscopic images show bad definition of edges & CMCMA channels appear to fat -> probably to soft  and squished by next layer. Changed printer settings: Hover factor: 2; washOffset: 10, dabTime: 3, WashRule: Before Exposure. Vats and printhead cleaned. Ink recycled.  Both scaffolds collected in DPBS and microscoped. Then incubation in DPBS with 5K U/mL lysozyme.",
+      "next steps": "Increase exposure time of both materials",
+      "pictures": "After printing:"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T2-230807/T1-230807",
+      "layer height [µm]": "500",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "20",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "25",
+      "zSpeed": "",
+      "status": "",
+      "comment": "New printrun. Same setup as before. Recycled inks were used. Both scaffolds collected in DPBS and microscoped. Then incubation in DPBS with  5K U/mL lysozyme.",
+      "next steps": "-",
+      "pictures": "1st layer: 2nd layer: 3rd layer:  4th layer: 6th layer:"
+    }
+  ]
+]

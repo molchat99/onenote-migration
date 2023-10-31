@@ -1,0 +1,18 @@
+[
+  [
+    {
+      "Hardware Parts": "Printhead",
+      "Position 1": "Gen2/3 high grain glass (D40-03)",
+      "Position 2": "Gen2/3 high grain glass (D40-03)",
+      "Position 3": "Gen2/3 high grain glass (D40-03)",
+      "Position 4": "Gen2/3 high grain glass (D40-03)"
+    },
+    {
+      "Hardware Parts": "Ink reservoir/Drying",
+      "Position 1": "Al_007",
+      "Position 2": "Pol_001 (wash)",
+      "Position 3": "Ceramic sponge holder",
+      "Position 4": "Al_006"
+    }
+  ]
+]

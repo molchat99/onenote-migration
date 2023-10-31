@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Name": "T1-230110",
+      "Polymer": "GelMA",
+      "cpolymer [v%]": "6",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "•",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "",
+      "Polymer": "",
+      "cpolymer [v%]": "",
+      "cLAP [wt%]": "",
+      "CTartrazine [mM]": "",
+      "Solvent": ""
+    }
+  ]
+]

@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "Position": "1",
+      "File name of material .Json": "DEMO-01_3s",
+      "Material parameters": "temperature:35, temperatureTolerance:50, brightness:500, exposureTime:3, zHop:1, zHopSpeed:150, washCount:0, washTime:0, dabCount:0, projectionDelay:0.5  Aus <http://192.168.188.28:5000/prepare-setlayout>"
+    },
+    {
+      "Position": "2",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    },
+    {
+      "Position": "3",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    },
+    {
+      "Position": "4",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    }
+  ]
+]

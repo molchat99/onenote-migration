@@ -1,0 +1,56 @@
+[
+  [
+    {
+      "Material": "DEMO clear",
+      "Temperature [°C]": "35",
+      "Temperature tolerance  [°C]": "10",
+      "brightness": "500",
+      "texp.layer [s]": "12",
+      "zHop [mm]/hover factor (Dab)": "1",
+      "zHop Speed": "150",
+      "washCount": "1",
+      "washTime [s]": "1",
+      "Dab Count": "0",
+      "Projection delay [s]": "5"
+    },
+    {
+      "Material": "Multi_block",
+      "Temperature [°C]": "35",
+      "Temperature tolerance  [°C]": "10",
+      "brightness": "500",
+      "texp.layer [s]": "10",
+      "zHop [mm]/hover factor (Dab)": "1",
+      "zHop Speed": "150",
+      "washCount": "1",
+      "washTime [s]": "2",
+      "Dab Count": "0",
+      "Projection delay [s]": "0.5"
+    },
+    {
+      "Material": "washing",
+      "Temperature [°C]": "35",
+      "Temperature tolerance  [°C]": "5",
+      "brightness": "",
+      "texp.layer [s]": "",
+      "zHop [mm]/hover factor (Dab)": "",
+      "zHop Speed": "",
+      "washCount": "1",
+      "washTime [s]": "1",
+      "Dab Count": "",
+      "Projection delay [s]": ""
+    },
+    {
+      "Material": "dab",
+      "Temperature [°C]": "",
+      "Temperature tolerance  [°C]": "",
+      "brightness": "",
+      "texp.layer [s]": "",
+      "zHop [mm]/hover factor (Dab)": "1",
+      "zHop Speed": "",
+      "washCount": "",
+      "washTime [s]": "1",
+      "Dab Count": "1",
+      "Projection delay [s]": ""
+    }
+  ]
+]

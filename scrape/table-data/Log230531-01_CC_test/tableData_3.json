@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230517_CADTest_JV_Material_1_DEMO_03   02   washing 03   drying 04 230517_CADTest_JV_Material_2_DEMO_01": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230517_CADTest_JV_Material_1_DEMO_03   02   washing 03   drying 04 230517_CADTest_JV_Material_2_DEMO_01": "01",
+      "Position": "230517_CADTest_JV_Material_1_DEMO_03",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230517_CADTest_JV_Material_1_DEMO_03   02   washing 03   drying 04 230517_CADTest_JV_Material_2_DEMO_01": "02",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": "washing"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230517_CADTest_JV_Material_1_DEMO_03   02   washing 03   drying 04 230517_CADTest_JV_Material_2_DEMO_01": "03",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": "drying"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230517_CADTest_JV_Material_1_DEMO_03   02   washing 03   drying 04 230517_CADTest_JV_Material_2_DEMO_01": "04",
+      "Position": "230517_CADTest_JV_Material_2_DEMO_01",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    }
+  ],
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "230517_CADTest_JV_Material_1_DEMO_03",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "washing"
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "drying"
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "230517_CADTest_JV_Material_2_DEMO_01",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    }
+  ]
+]

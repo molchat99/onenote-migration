@@ -1,0 +1,17 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T211012-1 AT + T211018-1 AKA",
+      "layer height [µm]": "100",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "20",
+      "texp.layer [s]": "3",
+      "zSpeed": "50",
+      "status": "",
+      "comment": "Ca. 60 mL recycled fresh ink at start. Layer override for layer 0: 20 s exposure. Z hop height set to 3 mm, Z speed 30. No pause.  Print is attached, medium-sized (ca. 2 mm width) \"Saum\" at bottom as observed sometimes in previous prints. Remaining print without defects. Washing under warm tap water with perfusion of channels. Detaching with new printed broad plastic spatula under running tap water. Post-curing 1x 15 min at RT (changed position of print between runs). Print stored in 50 mL tube with tap water for demo purposes. A-grade sample for KLM workshop.",
+      "next steps": "",
+      "pictures": "-"
+    }
+  ]
+]

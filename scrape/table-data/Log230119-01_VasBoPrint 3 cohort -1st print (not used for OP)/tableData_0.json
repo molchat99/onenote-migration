@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "Demo ink 01",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "15",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "",
+      "comment": "Global offset is -1.4 to compensate glass-supported homing procedure. Printhead loose --> fixated with tape. T1: 1 ml DEMO ink 01 test print in different VAT Super prints.",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "T1-230119 / T2-230119",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Global offset is -1.4 to compensate glass-supported homing procedure. Printhead loose --> fixated with tape. GelMA (T1) and HAMA (T2). Vol. T1: 600 µL (layer 1), + ~400 µL (layer 3). Vol. T2: 600 µL (layer 2).  Washing channels: dipping, then rinsing 3x1 mL warm DPBS with pipette, removing excess liquid with KimWipe (touching channels). Store in warm ECGM2 until further use.  All prints okay, two have small holes due to ait bubbles in first layer- positon 6 & X.    Transferring all at the same time into separate 24-wells with 0.5 mL 2x Hase in ECGM2 +P/S (230119 MF ).     Note: no cells in GelMA, HUVECS and MSCs are mixed in equal parts into HAMA",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

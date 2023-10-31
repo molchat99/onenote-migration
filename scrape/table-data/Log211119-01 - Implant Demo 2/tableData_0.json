@@ -1,0 +1,30 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T211115 MF",
+      "layer height [µm]": "100",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "20",
+      "texp.layer [s]": "2.5",
+      "zSpeed": "50 First layer 30",
+      "status": "Partial success",
+      "comment": "Layer override for layer 0: 20 s exposure. Z hop height set to 3 mm. Ca. 60 mL ink (37 °C, 1x used, 40 µm strained) at start. Temperature set to 37 °C.  Print looks fine. Rinsing print on printhead under running warm water. Detachment with metal spatula under running tap water. Postcuring 15 min RT.  Printer had to be restarted as z axis did not move anymore (Err211119-01) --> new ink reservoir installed",
+      "next steps": "-",
+      "pictures": "-"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "\"",
+      "layer height [µm]": "\"",
+      "no. bottom layers": "\"",
+      "texp.bottom  [s]": "\"",
+      "texp.layer [s]": "\"",
+      "zSpeed": "\"",
+      "status": "\"",
+      "comment": "Ink from previous run. All other settings as above.   Results as above (without z axis error).",
+      "next steps": "•",
+      "pictures": "•"
+    }
+  ]
+]

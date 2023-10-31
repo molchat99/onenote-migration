@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T230629-1 +1M/mL cells",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "25",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "500",
+      "status": "Success",
+      "comment": "Glass-assisted homing. Offset -1.4. 330 µL T1. All discs almost perfect but slightly connected.",
+      "next steps": "Continue with 5M/mL ink.",
+      "pictures": "-"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T230629-1 +5M/mL cells",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "25",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "500",
+      "status": "Partial success.",
+      "comment": "330 µL T1.3/9 discs cut-off on one side due to bad ink distribution. All discs fairly well-connected by overcuring.",
+      "next steps": "Continue with 10M/mL ink.",
+      "pictures": "-"
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "T230629-1 +10M/mL cells",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "25",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "500",
+      "status": "Partial success.",
+      "comment": "330 µL T1. 1/9 discs cut-off on one side due to bad ink distribution. All discs fairly well-connected by overcuring.",
+      "next steps": "-",
+      "pictures": "1"
+    }
+  ]
+]
