@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 220301_Breast implant_complete_low mesh joined_3D builder merged  breast implant prototype_7s_zHop50 02    03    04": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 220301_Breast implant_complete_low mesh joined_3D builder merged  breast implant prototype_7s_zHop50 02    03    04": "01",
+      "Position": "220301_Breast implant_complete_low mesh joined_3D builder merged",
+      "Filename of .stl": "",
+      "Link to .stl-file": "breast implant prototype_7s_zHop50"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 220301_Breast implant_complete_low mesh joined_3D builder merged  breast implant prototype_7s_zHop50 02    03    04": "02",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 220301_Breast implant_complete_low mesh joined_3D builder merged  breast implant prototype_7s_zHop50 02    03    04": "03",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 220301_Breast implant_complete_low mesh joined_3D builder merged  breast implant prototype_7s_zHop50 02    03    04": "04",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    }
+  ],
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "220301_Breast implant_complete_low mesh joined_3D builder merged",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "breast implant prototype_7s_zHop50"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    }
+  ]
+]

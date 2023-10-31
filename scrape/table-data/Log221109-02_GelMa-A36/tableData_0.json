@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "01",
+      "Ink": "",
+      "layer height [µm]": "500",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "17",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "fail",
+      "comment": "Not fully cured, very sticky",
+      "next steps": "Higher exposure time",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "20",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "Partial success",
+      "comment": "Better fidelity. Prints sticks to FEP + too high z speed --> prints tear",
+      "next steps": "Lower z speed + clean Container + PP",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "20",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "success",
+      "comment": "Good fidelity + print does not tear when z moving up",
+      "next steps": "Even lower z speed for last print",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "20",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "fail",
+      "comment": "Sticked to FEP film (some ink from last print left --> not visible by eye, if ink is still in container",
+      "next steps": "New try with cleaned Container + PP",
+      "pictures": ""
+    }
+  ]
+]

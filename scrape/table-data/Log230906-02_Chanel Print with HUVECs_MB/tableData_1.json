@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Name": "T1-230906",
+      "Polymer": "GelMA A32 (230905MB)",
+      "cpolymer [v%]": "7",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "•",
+      "Solvent": "DPBS  Comment: new GelMA A32 is utilised as the old one (230327MB) does not crosslink anymore and was discarded"
+    },
+    {
+      "Name": "T2-230906",
+      "Polymer": "CMCMA 4+5",
+      "cpolymer [v%]": "1.5",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0.2",
+      "Solvent": "DPBS + 20M HUVECs per mL"
+    }
+  ]
+]

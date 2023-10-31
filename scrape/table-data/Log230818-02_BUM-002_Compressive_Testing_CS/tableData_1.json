@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Name": "IOX LO",
+      "Polymer": "Rousselot GelMA",
+      "cpolymer [v%]": "5",
+      "cLAP [wt%]": "0.1",
+      "CIodixanol [v/v]": "5",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "IOX HI",
+      "Polymer": "Rousselot GelMA",
+      "cpolymer [v%]": "5",
+      "cLAP [wt%]": "0.1",
+      "CIodixanol [v/v]": "10",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "Ctrl IOX",
+      "Polymer": "Rousselot GelMA",
+      "cpolymer [v%]": "5",
+      "cLAP [wt%]": "0.1",
+      "CIodixanol [v/v]": "0",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "",
+      "Polymer": "",
+      "cpolymer [v%]": "",
+      "cLAP [wt%]": "",
+      "CIodixanol [v/v]": "",
+      "Solvent": ""
+    }
+  ]
+]

@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "Position": "1",
+      "File name of material .Json": "Rouselot_GelMA-5%_0.1%LAP_1000um",
+      "Material parameters": "{  \"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 42,  \"zHop\": 3,  \"zHopSpeed\": 100,  \"washCount\": 1,  \"washTime\": 1,  \"dabCount\": 1,  \"projectionDelay\": 1 }"
+    },
+    {
+      "Position": "2",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    },
+    {
+      "Position": "3",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    },
+    {
+      "Position": "4",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    }
+  ]
+]

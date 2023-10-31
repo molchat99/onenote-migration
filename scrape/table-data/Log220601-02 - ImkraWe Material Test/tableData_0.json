@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T220601-3",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "25",
+      "texposure_pos1 [s]": "15",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "20",
+      "status": "Partial success",
+      "comment": "Global offset is -1.5 to compensate glass-supported homing procedure. 800 µL T3. Completed prints with mediocre surface defects. 2/7 prints with holes due to captured air bubbles. Dipping of printhead in DPBS for washing. Minor damage to bottom sides during collection from printhead with spatula. Post-curing 30 min in FormCure at RT in petri dish with DPBS. Packing in 2 ml Eppi with DPBS.",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T220601-3",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "25",
+      "texposure_pos1 [s]": "15",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "20",
+      "status": "Failed",
+      "comment": "Global offset is -1.5. 800 µL T3. Printhead sticks strongly to FEP film after printing. Trial to remove it tears all prints apart: parts stick to printhead, parts to FEP film -> the film in vat AL_005 seems to be a different product than that of previously used blue metal ink vat i.e. less non-adhesive -> switch back to blue metal ink vat. Moreover, decision to reduce disc size to 6 mm (96-well plate).",
+      "next steps": "Switch out ink vat. Create new CAD with smaller discs. Repeat print (see Log220601-03)",
+      "pictures": ""
+    }
+  ]
+]

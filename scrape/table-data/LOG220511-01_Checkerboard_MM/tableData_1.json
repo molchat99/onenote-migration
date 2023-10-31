@@ -1,0 +1,22 @@
+[
+  [
+    {
+      "Name": "DEMO_01",
+      "Polymer": "PEGDA700",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0.5",
+      "CTartrazine [mM]": "0",
+      "Solvent": "PBS",
+      "Add": ""
+    },
+    {
+      "Name": "DEMO_01+green",
+      "Polymer": "PEGDA700",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0.5",
+      "CTartrazine [mM]": "0",
+      "Solvent": "PBS",
+      "Add": "Green Particles"
+    }
+  ]
+]

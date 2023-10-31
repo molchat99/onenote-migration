@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Partial success",
+      "comment": "Global offset is -1.5 Vol.: 1 mL. Prints seem to have different heights (overall smaller than 0.8 mm and differences between different prints on printhead). --> two magnets of printhead were loose",
+      "next steps": "Magnets glued into printhead and printer newly homed + vat cleaned completly",
+      "pictures": "-"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "Success",
+      "comment": "Vol: 1 ml, 12:17; Temp 37°C; All prints complete, partially damaged while picking them up from printhead. Transferred into 2 mL Eppi with 1.6 mL DPBS, saved ~0.6 mL ink. Cleaned FEP film with DPBS and subsequent aspiration. Not newly homed",
+      "next steps": "-",
+      "pictures": "-"
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "Success",
+      "comment": "Vol 1 mL  (~0.6 mL 1x used ink from previous run + 0.4 mL fresh ink), 12:38 All prints complete and transferred into same 2 mL Eppi, saved ~0.5 mL ink. Cleaning of FEP film like described for run #2",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "4",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Vol 1 mL. (0.5 mL from previous run + 0.5 mL fresh ink. 12:58 All prints complete and transferred into same 2 mL eppi. Remaining ink pooled with rest of fresh ink + noted on falcon",
+      "next steps": "Next time store prints of each print run in seperate Eppi",
+      "pictures": ""
+    }
+  ]
+]

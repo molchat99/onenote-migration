@@ -1,0 +1,44 @@
+[
+  [
+    {
+      "Name": "T1-230602",
+      "Polymer": "GelMA 90P60",
+      "cpolymer [v%]": "7",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "/",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T2-230602",
+      "Polymer": "GelMA 90P60 HAMA26",
+      "cpolymer [v%]": "5 0.5",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "/",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T3-230602",
+      "Polymer": "GelMA 90P60 HAMA18",
+      "cpolymer [v%]": "5 0.5",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "/",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T4-230602",
+      "Polymer": "GelMA 90P60 HAMA26",
+      "cpolymer [v%]": "7 0.5",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "/",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T5-230602",
+      "Polymer": "GelMA 90P60 HAMA18",
+      "cpolymer [v%]": "7 0.5",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "/",
+      "Solvent": "DPBS"
+    }
+  ]
+]

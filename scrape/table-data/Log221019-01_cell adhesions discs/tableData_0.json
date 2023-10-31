@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "GelMA",
+      "layer height [µm]": "500",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "12",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "",
+      "comment": "Offset -1.4 mm to compensate for glas homing procedure. Printing of only 2 mm height. 1 mL ink in reservoir. Good prints, model incomplete In DPBS washed, in 24 ULA well plate transferred",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

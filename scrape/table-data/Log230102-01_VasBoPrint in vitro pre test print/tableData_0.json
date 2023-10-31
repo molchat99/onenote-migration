@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T1-230102 / T2-230102",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "success",
+      "comment": "Global offset is -1.4 to compensate glass-supported homing procedure.  GelMA (T1) and HAMA (T2). Vol. T1: 600 µL (layer 1), + 600 µL (layer 3). Vol. T2: 600 µL (layer 2). Washing channels: dipping, then rinsing 3x1 mL warm DPBS with pipette, removing excess liquid with KimWipe (touching channels). Store in warm ECGM2 until further use.   3 perfect ones, 1 with air bubble in first layer, 2 with some too short channels, --> sorted into 2 groups: 1,3,5-->\"bad\" prints; 2,4,6--> good prints  Prints 1 and 2 were  R&g using T1-230102. Transferring all at the same time into separate 24-wells with 0.5 mL 2x Hase in ECGM2 +P/S (230102MF ).   Note: T1 had only 6.8m cells instead of 12m",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

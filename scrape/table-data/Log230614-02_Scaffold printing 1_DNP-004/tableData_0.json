@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T230331-1/T230613-01",
+      "layer height [µm]": "500",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "15",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "25",
+      "zSpeed": "100/100",
+      "status": "Failed",
+      "comment": "MM printing set-up: homing all positions, with 1.9 mm glasses on positions 1 and 4 (material positions, no vats), washing vat on position 2, and 3D-printed plastic carrier with ceramic sponge on position 3. Placing small piece of plastic foil (biohazard table garbage bag) on ceramic sponge to avoid damage to printhead. After homing, removal of glasses and placing ink vats. Vol.: 500 µL T2; 500 µL T1. Pauses after all dapping steps to evaluate print and remove excess liquid with pipet. Both printed scaffolds look super and are collected in DPBS with 5KU/mL lysozyme. Incubation at 37 °C over night.",
+      "next steps": "Modify washing (duration, dip number). Lowering hovering factor from momentary 1.9 (with global offset = 0.5 mm real offset).",
+      "pictures": ""
+    }
+  ]
+]

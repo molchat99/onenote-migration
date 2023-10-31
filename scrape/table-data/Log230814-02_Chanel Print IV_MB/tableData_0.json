@@ -1,0 +1,46 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T1-230814 T2-230814",
+      "layer height [µm]": "100",
+      "no. bottom layers": "/",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "Layer0-3: inactivated (resulting in 500 µm layer height in layer4) Layer4: 15 Layer10: 15 Layer11-13: inactivated Layer14: 15",
+      "texposure_pos2 [s]": "Layer5: 35 Layer 6-9: 18",
+      "zSpeed": "50",
+      "status": "Success",
+      "comment": "•Ink1: 200 µL first (base), then 200 µL were added for the second & third (top) layer  •Ink2: 200 µL are used  No use of Kimtech wipes! (To see the effect - is it really useful or can it be omitted? Advantage of omitting: channels are not demaged) Identical settings as for printing channels with CMCMA4+5 are chosen   Channel protrusions out of the GelMA bulk seem to be longer and more intact than when printing with CMCMA4+5 (discernible when looking at brightfield keyence photos)  Prints themselves look very defined",
+      "next steps": "Switch spot in VAT, clean print head Increase exposure time but also reduce the width of each channel by 50 µm inside STL to compensate for the broadening effect (might be due to overcuring or myabe channels are squished and therefore spread)",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T1-230814 T2-230814",
+      "layer height [µm]": "100",
+      "no. bottom layers": "/",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "Layer0-3: inactivated (resulting in 500 µm layer height in layer4) Layer4: 15 Layer10: 15 Layer11-13: inactivated (resulting in 0.4 mm layer height in layer14) Layer14: 15",
+      "texposure_pos2 [s]": "Layer5: 40 (layer height of channels: 0.1 mm) Layer6-9: 20 (layer heights of channels: 0.2, 0.3, 0.4, 0.5 mm)",
+      "zSpeed": "50",
+      "status": "Partial success",
+      "comment": "•Ink1: 200 µL first (base), then 200 µL were added for the second & third (top) layer  •Ink2: 200 µL are used  Forgot to wash with PBS after ink 2 --> bulk is noisy! Channels are poorly discernible --> repeat",
+      "next steps": "Position in VAT is changes again, print head is cleaned but all the other settings are kept",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "T1-230814 T2-230814",
+      "layer height [µm]": "100",
+      "no. bottom layers": "/",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "Layer0-3: inactivated (resulting in 500 µm layer height in layer4) Layer4: 15 Layer10: 15 Layer11-13: inactivated (resulting in 0.4 mm layer height in layer14) Layer14: 15",
+      "texposure_pos2 [s]": "Layer5: 40 (layer height of channels: 0.1 mm) Layer6-9: 20 (layer heights of channels: 0.2, 0.3, 0.4, 0.5 mm)",
+      "zSpeed": "50",
+      "status": "Success",
+      "comment": "Channels are too thin, 0.1 mm channel almost not visible at all (only when exposure is over 1s) --> reducing the channel size in the STL seems not to be the right solution to reach desired channel size (at least with CMCM11, try this new STL with reduced channel widths with CMCMA4+5)",
+      "next steps": "Clean everything",
+      "pictures": ""
+    }
+  ]
+]

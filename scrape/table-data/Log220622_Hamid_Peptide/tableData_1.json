@@ -1,0 +1,31 @@
+[
+  [
+    {
+      "Name": "HA_Nb w/o peptide (1)",
+      "Polymer": "HA_Nb",
+      "cpolymer [v%]": "2,5",
+      "cLAP [wt%]": "0,1",
+      "cDTT [v%]": "0,29",
+      "Peptide (g/L)": "-",
+      "Solvent": "PBS"
+    },
+    {
+      "Name": "HA_Nb 1x peptide (2)",
+      "Polymer": "HA_Nb",
+      "cpolymer [v%]": "2,5",
+      "cLAP [wt%]": "0,1",
+      "cDTT [v%]": "0,145",
+      "Peptide (g/L)": "0,01128",
+      "Solvent": "PBS"
+    },
+    {
+      "Name": "HA_Nb 2x peptide (3)",
+      "Polymer": "HA_Nb",
+      "cpolymer [v%]": "2,5",
+      "cLAP [wt%]": "0,1",
+      "cDTT [v%]": "0,0725",
+      "Peptide (g/L)": "0,016",
+      "Solvent": "PBS"
+    }
+  ]
+]

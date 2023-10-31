@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01   / 02    03 211109_EMoDisc_3x_wide_Onshape remodel_V1.stl   04 211109_EMoDisc_3x_wide_Onshape remodel_V1.stl": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01   / 02    03 211109_EMoDisc_3x_wide_Onshape remodel_V1.stl   04 211109_EMoDisc_3x_wide_Onshape remodel_V1.stl": "01",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": "/"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01   / 02    03 211109_EMoDisc_3x_wide_Onshape remodel_V1.stl   04 211109_EMoDisc_3x_wide_Onshape remodel_V1.stl": "02",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01   / 02    03 211109_EMoDisc_3x_wide_Onshape remodel_V1.stl   04 211109_EMoDisc_3x_wide_Onshape remodel_V1.stl": "03",
+      "Position": "211109_EMoDisc_3x_wide_Onshape remodel_V1.stl",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01   / 02    03 211109_EMoDisc_3x_wide_Onshape remodel_V1.stl   04 211109_EMoDisc_3x_wide_Onshape remodel_V1.stl": "04",
+      "Position": "211109_EMoDisc_3x_wide_Onshape remodel_V1.stl",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    }
+  ],
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "/"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "211109_EMoDisc_3x_wide_Onshape remodel_V1.stl",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "211109_EMoDisc_3x_wide_Onshape remodel_V1.stl",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    }
+  ]
+]

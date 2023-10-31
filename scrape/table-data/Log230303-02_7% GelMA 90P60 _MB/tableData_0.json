@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T1-230303",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "35 35 27",
+      "texposure_pos2 [s]": "/",
+      "texposure_pos3 [s]": "/",
+      "texposure_pos4 [s]": "/",
+      "zSpeed": "50",
+      "status": "",
+      "comment": "Offset: -1.4 Construct looks nice Only 1 layer printed to check if ink ok - as new LAP was used",
+      "next steps": "Construct is kept Printing head and Vat are cleaned STL with 3 constructs is selected and printed (Vergleichbarkeit)",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T1-230220",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "35 35 27",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "50",
+      "status": "",
+      "comment": "Offset: -1.4 Constructs look nice, but a tiny bit overcuring is still happening inbetween the constructs - but no need for intense separation",
+      "next steps": "Constructs are kept Printing head is cleaned and position in Vat is changed Exposure time of first layer (layer0) reduced to 35s",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "T1-230220",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "35 35 27",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "50",
+      "status": "",
+      "comment": "Offset: -1.4 Constucts look nicely, Überbrand is reduced but still a bit present The rest is also good!",
+      "next steps": "Constructs are kept Printing head and VAT are cleaned",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

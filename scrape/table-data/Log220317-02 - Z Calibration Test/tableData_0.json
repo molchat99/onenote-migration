@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T210510",
+      "layer height [µm]": "100",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "8",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Partial success",
+      "comment": "T1: 2 mL. Ink shows a lot of contaminants/particulates, maybe cured bits from previous prints -> was not strained. Still curing. Discs with medium overcuring at bottom rim and some general defects. Moreover, 2/3 discs show missing part on one side stemming from erroneous projection (already reported by MF that this particular STL makes trouble). 2/3 okay as samples because third disc damaged upon detachment from printhead. Transferred to 2 mL tube with 1 mL DPBS for storage until measurement.",
+      "next steps": "Recalibrate Z. Print again.",
+      "pictures": "-"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T210510",
+      "layer height [µm]": "100",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "8",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Partial success",
+      "comment": "T1: 2 mL. 2/3 discs show missing part on one side stemming from erroneous projection (already reported by MF that this particular STL makes trouble). Discs connect by overcuring and with defects. Okay as samples. Transferred to 2 mL tube with 1 mL DPBS for storage until measurement.",
+      "next steps": "Change to small printhead. Recalibrate Z. Print again.",
+      "pictures": "-"
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "T210510",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "8",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Partial success",
+      "comment": "T1: 2 mL. Indentation of printhead into print vat noticeable during layer 1. 2/3 discs show missing part on one side stemming from erroneous projection (already reported by MF that this particular STL makes trouble). Discs generally are much too thin! Transferred to 2 mL tube with 1 mL DPBS for storage until measurement.",
+      "next steps": "Recalibrate Z. Print again.",
+      "pictures": "-"
+    },
+    {
+      "Attempt No.": "4",
+      "Ink": "T210510",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "8",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Partial success",
+      "comment": "T1: 2 mL. Indentation of printhead into print vat noticeable during layer 1. 2/3 discs show missing part on one side stemming from erroneous projection (already reported by MF that this particular STL makes trouble). Discs generally are much too thin! Are also connected via overcuring. Transferred to 2 mL tube with 1 mL DPBS for storage until measurement.",
+      "next steps": "",
+      "pictures": "-"
+    }
+  ]
+]

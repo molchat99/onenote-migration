@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Name": "T1-230825",
+      "Polymer": "CMCMA 4+5",
+      "cpolymer [v%]": "1.5",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0.2",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T2-230825",
+      "Polymer": "CMCMA 4+5",
+      "cpolymer [v%]": "1.5",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "-",
+      "Solvent": "DPBS"
+    }
+  ]
+]

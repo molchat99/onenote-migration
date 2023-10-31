@@ -1,0 +1,69 @@
+[
+  [
+    {
+      "Attempt": "01-02",
+      "File name of material .Json": "PEGDA7%_0.1%_LAP_500µm",
+      "Material parameters": "\"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 5,  \"exposureTime\": 4.75,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    },
+    {
+      "Attempt": "03-04",
+      "File name of material .Json": "PEGDA7%_0.1%_LAP_250µm",
+      "Material parameters": "\"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 2.5,  \"exposureTime\": 3,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    },
+    {
+      "Attempt": "05-06",
+      "File name of material .Json": "PEGDA7%_0.1%_LAP_100µm",
+      "Material parameters": "\"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 2,  \"exposureTime\": 1.5,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    },
+    {
+      "Attempt": "07-08",
+      "File name of material .Json": "PEGDA10%_0.1%_LAP_500µm",
+      "Material parameters": "\"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 3.5,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    },
+    {
+      "Attempt": "09-10",
+      "File name of material .Json": "PEGDA10%_0.1%_LAP_250µm",
+      "Material parameters": "\"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 2.5,  \"exposureTime\": 2.25,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    },
+    {
+      "Attempt": "11-12",
+      "File name of material .Json": "PEGDA10%_0.1%_LAP_100µm",
+      "Material parameters": "\"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 1.5,  \"exposureTime\": 1,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    },
+    {
+      "Attempt": "13",
+      "File name of material .Json": "PEGDA10%_0.1%_LAP_500µm",
+      "Material parameters": "\"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 3.5,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    },
+    {
+      "Attempt": "red",
+      "File name of material .Json": "bad results",
+      "Material parameters": ""
+    },
+    {
+      "Attempt": "yellow",
+      "File name of material .Json": "Mediocre results",
+      "Material parameters": ""
+    },
+    {
+      "Attempt": "",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    },
+    {
+      "Attempt": "",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    },
+    {
+      "Attempt": "",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    },
+    {
+      "Attempt": "",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    }
+  ]
+]

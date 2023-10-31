@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "5% GelMA, 0.1 % LAP",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "42",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "100",
+      "status": "success",
+      "comment": "Global offset -1.4 for homing with glass.  ~750 mL.  Overcuring -> all prints connected -> cut out with spatula;, very soft overall",
+      "next steps": "Make sure polymer concentration is right before printing/ addition of GelMA & LAP; reduce exposure time?!",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

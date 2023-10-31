@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T211217-1/T211217-2",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "20",
+      "texposure_pos2 [s]": "45",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "100",
+      "status": "Aborted before start",
+      "comment": "Wrong Z-positioning of mat 2 slices: channel slices (mat 2, sacrifial channel ink) are in layers 0 and 1, but should be in layers 3 and 4. Virtually speaking the channels are not suspended in the middle of the construct, but sticking directly to the printhead/would be open to one side when HAMA is dissolved.",
+      "next steps": "Speak to TL/SD for fix before next trial.",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

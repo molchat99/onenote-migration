@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "1",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "40",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Offset -1.4 200 µL Super print Washed in DPBS",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

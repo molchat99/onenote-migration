@@ -1,0 +1,16 @@
+[
+  [
+    {
+      "Log no.": "Title",
+      "Log230905-02": "AMT_003_Influence of printing layer height on CMT discs properties"
+    },
+    {
+      "Log no.": "Operator",
+      "Log230905-02": "AB"
+    },
+    {
+      "Log no.": "Description",
+      "Log230905-02": "Determine whether 500 µm layers are printable (instead of 1 mm layers) to avoid lower CMT disc's height"
+    }
+  ]
+]

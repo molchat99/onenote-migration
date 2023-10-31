@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Name": "Demo03 / CC_mat01",
+      "Polymer": "PEGDA",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0,5",
+      "CTartrazine [mM]": "1",
+      "Solvent": "PBS"
+    },
+    {
+      "Name": "Demo01 / CC_mat02",
+      "Polymer": "PEGDA",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0,5",
+      "CTartrazine [mM]": "1",
+      "Solvent": "PBS"
+    }
+  ]
+]

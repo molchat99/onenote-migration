@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T1-220831MF",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Success",
+      "comment": "Global offset is -1.4.  Vol. 1 mL Prints complete. One print taken and testet for rolling procedure --> seems to be too small All 6 prints complete and collected in 2 mL tube with 1.8 mL DPBS for construct analysis. Old ink collected and pooled with ink from 220824DP. DPBS added onto FEP film and aspirated",
+      "next steps": "Change model to 7.2 mm model",
+      "pictures": "1"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Global offset is -1.4.  Vol. 1 mL 4 Prints complete.2 prints slightly damaged by airbubble. all prints taken and testet for rolling procedure --> good results, some were better than others. All transferred into 2 mL tube with 1.8 ml DPBS. Taken to GMA for analysis. Remaining ink collected (see above) and dish cleaned",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "4",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

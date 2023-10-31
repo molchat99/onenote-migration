@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T1-221110",
+      "layer height [µm]": "500",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "11",
+      "texposure_pos2 [s]": "/",
+      "texposure_pos3 [s]": "/",
+      "texposure_pos4 [s]": "/",
+      "zSpeed": "150",
+      "status": "",
+      "comment": "Offset -1.4 mm to compensate for glass homing procedure. 1.2 mL ink Cylinders not high enough - wrong homing procedure- prints discarded",
+      "next steps": "Platform cleaned + 400µl ink New homing procedure",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "/",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Old ink + 400µl fresh ink; New homing procedure Results look much better",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "+ 400 µL fresh ink One sonstruct is cut on the side --> wrong projection",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

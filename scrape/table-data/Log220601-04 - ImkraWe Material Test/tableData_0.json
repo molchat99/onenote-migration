@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T220601-3",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "25",
+      "texposure_pos1 [s]": "15",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "20",
+      "status": "Failed",
+      "comment": "Global offset is -1.5 to compensate glass-supported homing procedure. Rest T3 from run #1 Log220601-02. All prints delaminate during printing: parts on printhead, parts stuck to FEP film.",
+      "next steps": "",
+      "pictures": "-"
+    }
+  ]
+]

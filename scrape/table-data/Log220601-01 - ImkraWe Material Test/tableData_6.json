@@ -1,0 +1,14 @@
+[
+  [
+    {
+      "Position": "1",
+      "File name of material .Json": "Implant Blocker Ink V3",
+      "Material parameters": "\"temperature\": 40, \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 6,  \"zHop\": 1,  \"zHopSpeed\": 20,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    },
+    {
+      "Position": "1",
+      "File name of material .Json": "Implant Blocker Ink V4",
+      "Material parameters": "\"temperature\": 40, \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 15,  \"zHop\": 1,  \"zHopSpeed\": 20,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    }
+  ]
+]

@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T220324-1/T220324-2",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Partial success",
+      "comment": "Global offset is -1.5 to compensate new homing work-around procedure (see lab book AT). Vol. T1: 600 µL (layer 1), + 400 L (layer 3). Vol. T2: 500 µL (layer 2). Washing channels: dipping, then rinsing 3x1 mL with pipette, removing excess liquid with KimWipe (also TOUCHING channels). Printed channels of 2 constructs damaged accidentally when drying with KimWipe. All 6 prints collected in 2 mL tube with 1.8 mL DPBS for rolling/gluing trials.",
+      "next steps": "Redo Z homing and repeat print with identical settings.",
+      "pictures": "3"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T220324-1/T220324-2",
+      "layer height [µm]": "100",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Failed",
+      "comment": "Global offset is -1.5 to compensate new homing work-around procedure (see lab book AT). Vol. T1: rest #1 +300 µL (layer 1). Aborted after layer 1. Forgotten to remove glass from homing procedure -> printhead crashes into bottom of print vat.",
+      "next steps": "Redo Z homing and do print as in #1.",
+      "pictures": "1"
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "T220324-1/T220324-2",
+      "layer height [µm]": "100",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Partial success",
+      "comment": "Global offset is -1.5 to compensate new homing work-around procedure (see lab book AT). Vol. T1: rest #1 +400 µL (layer 1), + 400 L (layer 3). Vol. T2: rest #1 +300 µL (layer 2). Two central prints with disturbed/incomplete base layers: possibly compromised FEP film (ink was sitting on it since start of experiment) or captured bubble. Washing channels: dipping, then rinsing 3x1 mL with pipette, removing liquid with KimWipe (NOT TOUCHING channels). All 6 prints collected in 2 mL tube with 1.8 mL DPBS for rolling/gluing trials.",
+      "next steps": "",
+      "pictures": "2"
+    }
+  ]
+]

@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 Hand_tilted_right  HandINK 02   Water 03    04   Water": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 Hand_tilted_right  HandINK 02   Water 03    04   Water": "01",
+      "Position": "Hand_tilted_right",
+      "Filename of .stl": "",
+      "Link to .stl-file": "HandINK"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 Hand_tilted_right  HandINK 02   Water 03    04   Water": "02",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": "Water"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 Hand_tilted_right  HandINK 02   Water 03    04   Water": "03",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 Hand_tilted_right  HandINK 02   Water 03    04   Water": "04",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": "Water"
+    }
+  ],
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "Hand_tilted_right",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "HandINK"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "Water"
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "Water"
+    }
+  ]
+]

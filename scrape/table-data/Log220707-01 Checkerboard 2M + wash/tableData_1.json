@@ -1,0 +1,22 @@
+[
+  [
+    {
+      "Name": "Luk-Transparent",
+      "Polymer": "Pegda700",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0,1",
+      "CTartrazine [mM]": "0",
+      "Solvent": "PBS",
+      "Gelma FIC A29": ""
+    },
+    {
+      "Name": "Luk-fluorescent",
+      "Polymer": "",
+      "cpolymer [v%]": "8%",
+      "cLAP [wt%]": "",
+      "CTartrazine [mM]": "",
+      "Solvent": "",
+      "Gelma FIC A29": "2%"
+    }
+  ]
+]

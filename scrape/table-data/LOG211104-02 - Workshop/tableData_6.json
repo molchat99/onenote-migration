@@ -1,0 +1,56 @@
+[
+  [
+    {
+      "Material": "",
+      "Temperature [°C]": "",
+      "Temperature tolerance  [°C]": "",
+      "brightness": "",
+      "texp.layer pos1 [s]": "",
+      "zHop [mm]": "1",
+      "zHop Speed": "200",
+      "washCount": "",
+      "washTime [s]": "",
+      "Dab Count": "",
+      "Projection delay [s]": ""
+    },
+    {
+      "Material": "",
+      "Temperature [°C]": "",
+      "Temperature tolerance  [°C]": "",
+      "brightness": "",
+      "texp.layer pos1 [s]": "",
+      "zHop [mm]": "",
+      "zHop Speed": "",
+      "washCount": "",
+      "washTime [s]": "",
+      "Dab Count": "",
+      "Projection delay [s]": ""
+    },
+    {
+      "Material": "",
+      "Temperature [°C]": "",
+      "Temperature tolerance  [°C]": "",
+      "brightness": "",
+      "texp.layer pos1 [s]": "",
+      "zHop [mm]": "",
+      "zHop Speed": "",
+      "washCount": "",
+      "washTime [s]": "",
+      "Dab Count": "",
+      "Projection delay [s]": ""
+    },
+    {
+      "Material": "",
+      "Temperature [°C]": "",
+      "Temperature tolerance  [°C]": "",
+      "brightness": "",
+      "texp.layer pos1 [s]": "",
+      "zHop [mm]": "",
+      "zHop Speed": "",
+      "washCount": "",
+      "washTime [s]": "",
+      "Dab Count": "",
+      "Projection delay [s]": ""
+    }
+  ]
+]

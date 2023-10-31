@@ -1,0 +1,32 @@
+[
+  [
+    {
+      "globalOffset": "washOffset",
+      "0.6": "0"
+    },
+    {
+      "globalOffset": "hoverFactor",
+      "0.6": "0.1"
+    },
+    {
+      "globalOffset": "endInWash",
+      "0.6": "false"
+    },
+    {
+      "globalOffset": "defaultXYSpeed",
+      "0.6": "250"
+    },
+    {
+      "globalOffset": "defaultZSpeed",
+      "0.6": "150"
+    },
+    {
+      "globalOffset": "layerHeight",
+      "0.6": "1"
+    },
+    {
+      "globalOffset": "switchDishHeight",
+      "0.6": "60"
+    }
+  ]
+]

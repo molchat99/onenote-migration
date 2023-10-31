@@ -1,0 +1,43 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "Demo02",
+      "layer height [µm]": "100",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "-",
+      "texp.layer [s]": "4",
+      "zSpeed": "250",
+      "status": "fail",
+      "comment": "printed, but holes and fails in architecture, some parts sticking to reservoir",
+      "next steps": "increase exposure time",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "Demo02",
+      "layer height [µm]": "100",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "-",
+      "texp.layer [s]": "6",
+      "zSpeed": "250",
+      "status": "success",
+      "comment": "•complete structure printed •most supports intact •supports easily snapped by carefully touching with plastic tool •washing and UV post-curing •slightly opaque clean outcome",
+      "next steps": "wash, remove from platform, remove supports, 10 min UV chamber @RT, store in water in fridge",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texp.layer [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "Position": "1",
+      "File name of material .Json": "Rousselot GelMA 90P60_6%",
+      "Material parameters": "{  \"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 35,  \"zHop\": 3,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5 }"
+    },
+    {
+      "Position": "1",
+      "File name of material .Json": "Rousselot GelMA 90P60_6%_250µm",
+      "Material parameters": "{  \"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 30,  \"zHop\": 3,  \"zHopSpeed\": 80,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 1 }"
+    },
+    {
+      "Position": "1",
+      "File name of material .Json": "Rousselot GelMA 90P60_6%",
+      "Material parameters": "{  \"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 35,  \"zHop\": 3,  \"zHopSpeed\": 50,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 1 }"
+    },
+    {
+      "Position": "",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    }
+  ]
+]

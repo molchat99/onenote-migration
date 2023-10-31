@@ -1,0 +1,72 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "",
+      "layer height [µm]": "200",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "5 (both inks)",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "WASH/ DRY technique": "No washing or drying",
+      "status": "fail",
+      "comment": "Really good curing (where it cured), but the pink ink didn't stick completely",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "",
+      "layer height [µm]": "200",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "5",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "WASH/ DRY technique": "No washing, manual drying with pressurized air",
+      "status": "Success (mostly)",
+      "comment": "Great curing everywhere, some bubbles but otherwise perfect. Pink ink had some pink particles in it that made it not entirely even color",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "",
+      "layer height [µm]": "200",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "5",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "WASH/ DRY technique": "Manual washing in PBS, manual drying with pressurized air",
+      "status": "fail",
+      "comment": "Pink ink cured great and very evenly (USED 0.02g ACRYLIC INK), but didn't stick to the print well",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "4",
+      "Ink": "",
+      "layer height [µm]": "200",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "5",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "WASH/ DRY technique": "\"",
+      "status": "fail",
+      "comment": "Used 0.05g acrylic ink, cured (I think), but first one completely fell off so I tried the last layer again on the same print. It barely stuck, but definitely cured.",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

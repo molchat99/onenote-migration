@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T230808-1 +only ink (nc)",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "25",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "500",
+      "status": "success",
+      "comment": "Glass-assisted homing. Offset -1.4. 470 µL T1. All discs are fine. 9 from 10 slices were hiden",
+      "next steps": "Continue with 1M/mL ink.",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T230808-1 +1M/mL cells",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "25",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "500",
+      "status": "Partial success.",
+      "comment": "470 µL T1. One disc is destroyed",
+      "next steps": "Continue with 5M/mL ink.",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "T230808-1 +5M/mL cells",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "25",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "500",
+      "status": "Success",
+      "comment": "470 µL T1. No overcuring, discs are perfect",
+      "next steps": "Continue with 10M/mL ink.",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "4",
+      "Ink": "T230808-1 +10M/mL cells",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "25",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "500",
+      "status": "Success",
+      "comment": "470 µL T1. No overcuring, discs are perfect",
+      "next steps": "End",
+      "pictures": ""
+    }
+  ]
+]

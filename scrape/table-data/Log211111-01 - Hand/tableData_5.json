@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 Hand12_right_grid_poles  half_Hand_4 02    03    04": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 Hand12_right_grid_poles  half_Hand_4 02    03    04": "01",
+      "Position": "Hand12_right_grid_poles",
+      "Filename of .stl": "",
+      "Link to .stl-file": "half_Hand_4"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 Hand12_right_grid_poles  half_Hand_4 02    03    04": "02",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 Hand12_right_grid_poles  half_Hand_4 02    03    04": "03",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 Hand12_right_grid_poles  half_Hand_4 02    03    04": "04",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    }
+  ],
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "Hand12_right_grid_poles",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "half_Hand_4"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    }
+  ]
+]

@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "Position": "1",
+      "File name of material .Json": "Rousselot GelMA 90P60_6%",
+      "Material parameters": "temperature:37, temperatureTolerance:5, brightness:500, exposureTime:35, zHop:1, zHopSpeed:100, washCount:0, washTime:0, dabCount:0, projectionDelay:0.5"
+    },
+    {
+      "Position": "2",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    },
+    {
+      "Position": "3",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    },
+    {
+      "Position": "4",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    }
+  ]
+]

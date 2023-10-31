@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "MM_DemoTest_mat01.stl",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "Material"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "Drying"
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "MM_DemoTest_mat02.stl",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "Material"
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "Storing / Washing"
+    }
+  ]
+]

@@ -1,0 +1,56 @@
+[
+  [
+    {
+      "Material": "Half_hand_4",
+      "Temperature [°C]": "35",
+      "Temperature tolerance  [°C]": "10",
+      "brightness": "500",
+      "texp.layer pos1 [s]": "4",
+      "zHop [mm]": "1",
+      "zHop Speed": "150",
+      "washCount": "0",
+      "washTime [s]": "0",
+      "Dab Count": "0",
+      "Projection delay [s]": "1"
+    },
+    {
+      "Material": "",
+      "Temperature [°C]": "",
+      "Temperature tolerance  [°C]": "",
+      "brightness": "",
+      "texp.layer pos1 [s]": "",
+      "zHop [mm]": "",
+      "zHop Speed": "",
+      "washCount": "",
+      "washTime [s]": "",
+      "Dab Count": "",
+      "Projection delay [s]": ""
+    },
+    {
+      "Material": "",
+      "Temperature [°C]": "",
+      "Temperature tolerance  [°C]": "",
+      "brightness": "",
+      "texp.layer pos1 [s]": "",
+      "zHop [mm]": "",
+      "zHop Speed": "",
+      "washCount": "",
+      "washTime [s]": "",
+      "Dab Count": "",
+      "Projection delay [s]": ""
+    },
+    {
+      "Material": "",
+      "Temperature [°C]": "",
+      "Temperature tolerance  [°C]": "",
+      "brightness": "",
+      "texp.layer pos1 [s]": "",
+      "zHop [mm]": "",
+      "zHop Speed": "",
+      "washCount": "",
+      "washTime [s]": "",
+      "Dab Count": "",
+      "Projection delay [s]": ""
+    }
+  ]
+]

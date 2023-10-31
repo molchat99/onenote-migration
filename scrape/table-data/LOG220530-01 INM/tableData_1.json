@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "Name": "HAMA",
+      "Polymer": "HAMA",
+      "cpolymer [v%]": "2",
+      "cLAP [v%]": "0.1",
+      "CDTT [v%]": "-",
+      "Solvent": "PBS"
+    },
+    {
+      "Name": "HA_NB",
+      "Polymer": "Hyaloron",
+      "cpolymer [v%]": "5",
+      "cLAP [v%]": "0.1",
+      "CDTT [v%]": "0.35 (2mM)",
+      "Solvent": "PBS"
+    },
+    {
+      "Name": "HA_NB25",
+      "Polymer": "Hyaloron",
+      "cpolymer [v%]": "2.5",
+      "cLAP [v%]": "0.1",
+      "CDTT [v%]": "0.35 (2mM)",
+      "Solvent": "PBS"
+    },
+    {
+      "Name": "Dex-CM_NB",
+      "Polymer": "Dextran",
+      "cpolymer [v%]": "8",
+      "cLAP [v%]": "0.1",
+      "CDTT [v%]": "0.74 (4mM)",
+      "Solvent": "PBS"
+    },
+    {
+      "Name": "Dex-CM_NB_DTT",
+      "Polymer": "Dextran",
+      "cpolymer [v%]": "8",
+      "cLAP [v%]": "0.1",
+      "CDTT [v%]": "0.37 (2mM)",
+      "Solvent": "PBS"
+    },
+    {
+      "Name": "HA_AE",
+      "Polymer": "Hyaloron",
+      "cpolymer [v%]": "2.5",
+      "cLAP [v%]": "0.1",
+      "CDTT [v%]": "0.33 (2mM)",
+      "Solvent": "PBS"
+    },
+    {
+      "Name": "HA_AE_DTT",
+      "Polymer": "Hyaloron",
+      "cpolymer [v%]": "2.5",
+      "cLAP [v%]": "0.1",
+      "CDTT [v%]": "0.66 (2mM)",
+      "Solvent": "PBS"
+    }
+  ]
+]

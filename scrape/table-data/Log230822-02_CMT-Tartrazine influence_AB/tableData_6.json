@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "Position": "1",
+      "File name of material .Json": "GelMA_A30_7%+0.1%LAP_500µm",
+      "Material parameters": "{  \"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 12,  \"zHop\": 3,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5 }"
+    },
+    {
+      "Position": "2",
+      "File name of material .Json": "GelMA_A30_7%+0.1%LAP+0.2mM TTZ_500µm",
+      "Material parameters": "{  \"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 15,  \"zHop\": 3,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5 }"
+    },
+    {
+      "Position": "3",
+      "File name of material .Json": "GelMA_A30_7%+0.1%LAP+0.5mM TTZ_500µm",
+      "Material parameters": "{  \"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 20,  \"zHop\": 3,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5 }"
+    },
+    {
+      "Position": "4",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    }
+  ]
+]

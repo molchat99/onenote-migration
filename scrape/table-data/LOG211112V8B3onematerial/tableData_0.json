@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "1",
+      "layer height [µm]": "50",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "4",
+      "Texposure_pos1 [s]": "4",
+      "Texposure_pos2 [s]": "",
+      "Texposure_pos3 [s]": "",
+      "Texposure_pos4 [s]": "",
+      "zSpeed": "200",
+      "status": "",
+      "comment": "Stuck to PDMS",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "1",
+      "layer height [µm]": "50",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "3",
+      "Texposure_pos1 [s]": "3",
+      "Texposure_pos2 [s]": "",
+      "Texposure_pos3 [s]": "",
+      "Texposure_pos4 [s]": "",
+      "zSpeed": "200",
+      "status": "",
+      "comment": "Idem",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "2",
+      "layer height [µm]": "50",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "3",
+      "Texposure_pos1 [s]": "3",
+      "Texposure_pos2 [s]": "",
+      "Texposure_pos3 [s]": "",
+      "Texposure_pos4 [s]": "",
+      "zSpeed": "200",
+      "status": "",
+      "comment": "Changed to FEP Film bath, homing below film level, stressing film (report filed) stuck to film",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "4",
+      "Ink": "2",
+      "layer height [µm]": "50",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "8",
+      "Texposure_pos1 [s]": "5",
+      "Texposure_pos2 [s]": "",
+      "Texposure_pos3 [s]": "",
+      "Texposure_pos4 [s]": "",
+      "zSpeed": "200",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

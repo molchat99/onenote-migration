@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Name": "HAMA 22",
+      "Polymer": "HAMA",
+      "cpolymer [v%]": "2%",
+      "cLAP [wt%]": "0,1%",
+      "CTartrazine [mM]": "",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "HAMA 23",
+      "Polymer": "HAMA",
+      "cpolymer [v%]": "2%",
+      "cLAP [wt%]": "0,1%",
+      "CTartrazine [mM]": "",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "HAMA 24",
+      "Polymer": "HAMA",
+      "cpolymer [v%]": "2%",
+      "cLAP [wt%]": "0,1%",
+      "CTartrazine [mM]": "",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "HAMA 25",
+      "Polymer": "HAMA",
+      "cpolymer [v%]": "2%",
+      "cLAP [wt%]": "0,1%",
+      "CTartrazine [mM]": "",
+      "Solvent": "DPBS"
+    }
+  ]
+]

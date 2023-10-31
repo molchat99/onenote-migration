@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "",
+      "layer height [µm]": "200",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "4",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Possibly some overcuring",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "3.75",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Definitely undercured",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "4.25",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Great curing this time, tried 4.25 and even better!! Suggest 4.25 (global offset 0.7)",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "7% GelMA 0.1% LAP",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "30",
+      "texposure_pos1 [s]": "14",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Fail",
+      "comment": "It did not attach to the printhead",
+      "next steps": "Make exposure times higher - especially for the bottom layer",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "7% GelMA 0.1% LAP",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "40",
+      "texposure_pos1 [s]": "19",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Fail",
+      "comment": "Overcured",
+      "next steps": "Less exposure time",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "7% GelMA 0.1% LAP",
+      "layer height [µm]": "0.1",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "40",
+      "texposure_pos1 [s]": "13",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Fail",
+      "comment": "Overcured",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

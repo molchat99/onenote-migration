@@ -1,0 +1,22 @@
+[
+  [
+    {
+      "Name": "DemoInk-01-3s_Wash",
+      "Polymer": "PEGDA",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0,5",
+      "CTartrazine [mM]": "-",
+      "Solvent": "PBS",
+      "Comment": ""
+    },
+    {
+      "Name": "DemoInk-01-3s_Wash",
+      "Polymer": "PEGDA",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0,5",
+      "CTartrazine [mM]": "•",
+      "Solvent": "PBS",
+      "Comment": "Blue Color 1:100"
+    }
+  ]
+]

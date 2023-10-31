@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "HA-NB",
+      "layer height [µm]": "500",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "13",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "",
+      "comment": "Offset -1.4 mm to compensate for glas homing procedure. Printing of only 2 mm height. 1 mL ink in reservoir. Accidentially 13 sec exposure Washed in DPBS.",
+      "next steps": "Clean Vat. Change exposure to 3 sec",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "3",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Offset -1.4 mm to compensate for glas homing procedure. Printing of only 2 mm height. 1 mL ink in reservoir. Prints Washed in DPBS,",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

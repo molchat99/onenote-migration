@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Name": "T1-221207",
+      "Polymer": "PEGDA700",
+      "cpolymer [v%]": "7",
+      "cLAP [wt%]": "0,1",
+      "CTartrazine [mM]": "/",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T2-221207",
+      "Polymer": "PEGDA700",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0,1",
+      "CTartrazine [mM]": "/",
+      "Solvent": "DPBS"
+    }
+  ]
+]

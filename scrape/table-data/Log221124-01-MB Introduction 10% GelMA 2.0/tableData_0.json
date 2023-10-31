@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T1-221124",
+      "layer height [µm]": "500",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "11",
+      "texposure_pos2 [s]": "/",
+      "texposure_pos3 [s]": "/",
+      "texposure_pos4 [s]": "/",
+      "zSpeed": "150",
+      "status": "",
+      "comment": "1.2 mL ink Cylinders look good, no probelm occured  Satisfied with result",
+      "next steps": "Platform cleaned + 1,2 mL ink New layer height: 300µm New exposure time: 6,5s",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T1-221124",
+      "layer height [µm]": "300",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "6.5",
+      "texposure_pos2 [s]": "/",
+      "texposure_pos3 [s]": "/",
+      "texposure_pos4 [s]": "/",
+      "zSpeed": "150",
+      "status": "",
+      "comment": "1.2 mL ink Cylinders look good, no probelm occured  Satisfied with result",
+      "next steps": "Platform cleaned + 1,2 mL ink New layer height: 250µm New exposure time: 5,5s",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "T1-221124",
+      "layer height [µm]": "250",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "5.5",
+      "texposure_pos2 [s]": "/",
+      "texposure_pos3 [s]": "/",
+      "texposure_pos4 [s]": "/",
+      "zSpeed": "150",
+      "status": "",
+      "comment": "Cylinders look ok, little overburn and the top layer seems to be less accurate (\"ausgefranzt\")",
+      "next steps": "Platform cleaned + 1,2 mL ink New exposure time: 5s",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "4",
+      "Ink": "T1-221124",
+      "layer height [µm]": "250",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "/",
+      "texposure_pos1 [s]": "5",
+      "texposure_pos2 [s]": "/",
+      "texposure_pos3 [s]": "/",
+      "texposure_pos4 [s]": "/",
+      "zSpeed": "150",
+      "status": "",
+      "comment": "Cylinders look similer, with the \"ausgefranzte\" upper layer, the overburn is reduced but still discernible",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

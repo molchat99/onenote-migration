@@ -1,0 +1,17 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T211115 MF",
+      "layer height [µm]": "100",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "20",
+      "texp.layer [s]": "2.5",
+      "zSpeed": "50",
+      "status": "Partial success",
+      "comment": "Remaining ink in reservoir from Log211118-01. Layer override for layer 0: 20 s exposure, Z speed 30. Z hop height set to 3 mm. No pause. Print almost perfect, material overhang at bottom (\"Saum\", ca. 1 mm wide). Other than that, perfect. Rinsing print on printhead under running warm water. Detachment with metal spatula under running tap water. Fit check with metal implant replica: better fit than V2 and almost perfect. Problem remains with perfect alignment on one side of metal implant replica where the curvature is too strong for the material to bend around. Moreover, solution to stabilise ST implant on metal implant replica missing.",
+      "next steps": "-",
+      "pictures": "+"
+    }
+  ]
+]

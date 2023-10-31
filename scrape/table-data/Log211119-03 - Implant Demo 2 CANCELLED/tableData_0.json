@@ -1,0 +1,17 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "Demo02 (pooled from 3x inks from 08/09 2021, SD)",
+      "layer height [µm]": "100",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "10",
+      "texp.layer [s]": "6",
+      "zSpeed": "150",
+      "status": "Cancelled",
+      "comment": "File is not sliced. Nothing happens after 1 hour waiting.",
+      "next steps": "-",
+      "pictures": "-"
+    }
+  ]
+]

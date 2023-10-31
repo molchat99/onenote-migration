@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T2-230131",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "35 35 27",
+      "texposure_pos2 [s]": "/",
+      "texposure_pos3 [s]": "/",
+      "texposure_pos4 [s]": "/",
+      "zSpeed": "50",
+      "status": "",
+      "comment": "Offset: -1.4. 3 mL Construct looks nice, some overcuring in middle and some attached to VAT",
+      "next steps": "Reduce exposure time of 2nd layer slightly",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T3-230131",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "35 32 27",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "50",
+      "status": "",
+      "comment": "OS -1.4 3 mL Most prints okay. Overcuring, especially in middle area",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "32 32 27",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "OS -1.4 2 ml Some prints okay. Still overcuring",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

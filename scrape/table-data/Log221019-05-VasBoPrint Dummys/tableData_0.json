@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "7 % GelMA, 0.1 % LAP",
+      "layer height [µm]": "500",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "35",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "",
+      "comment": "Offset -1.4 mm to compensate for glass homing procedure.  1 mL ink in reservoir. Printing of 3rd and 7th layer only 5 good prints --> seem to be a little bit too thin 1 destroyed by air bubble Washed in DPBS. Then transferred into 2 mL Eppi with DPBS",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

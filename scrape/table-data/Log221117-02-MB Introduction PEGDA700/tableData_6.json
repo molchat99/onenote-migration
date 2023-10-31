@@ -1,0 +1,34 @@
+[
+  [
+    {
+      "Position": "1",
+      "File name of material .Json": "PEGDA10%_0.1%_LAP_500µm",
+      "Material parameters": "\"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 3.5,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    },
+    {
+      "Position": "2",
+      "File name of material .Json": "PEGDA10%_0.1%_LAP_500µm_3s",
+      "Material parameters": "\"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 3,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    },
+    {
+      "Position": "3",
+      "File name of material .Json": "PEGDA10%_0.1%_LAP_500µm_2.5s",
+      "Material parameters": "\"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 2.5,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    },
+    {
+      "Position": "4",
+      "File name of material .Json": "PEGDA7%_0.1%_LAP_500µm_3.5s",
+      "Material parameters": "\"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 3.5,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    },
+    {
+      "Position": "5",
+      "File name of material .Json": "PEGDA7%_0.1%_LAP_500µm",
+      "Material parameters": "\"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 4,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    },
+    {
+      "Position": "6",
+      "File name of material .Json": "PEGDA7%_0.1%_LAP_500µm_4.5s",
+      "Material parameters": "\"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 4.5,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    }
+  ]
+]

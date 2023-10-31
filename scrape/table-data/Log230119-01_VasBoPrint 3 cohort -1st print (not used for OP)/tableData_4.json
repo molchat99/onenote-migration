@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "230119_Remodel_7.2mm_5.2mm_6x_M01",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "Material T1-230119"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "230119_Remodel_7.2mm_5.2mm_6x_M02",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "Material T2-230119"
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    }
+  ]
+]

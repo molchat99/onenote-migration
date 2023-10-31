@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230530_DNP-004_Scaffold print 1_1x Scaf1_1x Scaf2_M02  T2-230807 02  -  03  -  04 230530_DNP-004_Scaffold print 1_1x Scaf1_1x Scaf2_M01  T1-230807": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230530_DNP-004_Scaffold print 1_1x Scaf1_1x Scaf2_M02  T2-230807 02  -  03  -  04 230530_DNP-004_Scaffold print 1_1x Scaf1_1x Scaf2_M01  T1-230807": "01",
+      "Position": "230530_DNP-004_Scaffold print 1_1x Scaf1_1x Scaf2_M02",
+      "Filename of .stl": "",
+      "Link to .stl-file": "T2-230807"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230530_DNP-004_Scaffold print 1_1x Scaf1_1x Scaf2_M02  T2-230807 02  -  03  -  04 230530_DNP-004_Scaffold print 1_1x Scaf1_1x Scaf2_M01  T1-230807": "02",
+      "Position": "",
+      "Filename of .stl": "-",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230530_DNP-004_Scaffold print 1_1x Scaf1_1x Scaf2_M02  T2-230807 02  -  03  -  04 230530_DNP-004_Scaffold print 1_1x Scaf1_1x Scaf2_M01  T1-230807": "03",
+      "Position": "",
+      "Filename of .stl": "-",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230530_DNP-004_Scaffold print 1_1x Scaf1_1x Scaf2_M02  T2-230807 02  -  03  -  04 230530_DNP-004_Scaffold print 1_1x Scaf1_1x Scaf2_M01  T1-230807": "04",
+      "Position": "230530_DNP-004_Scaffold print 1_1x Scaf1_1x Scaf2_M01",
+      "Filename of .stl": "",
+      "Link to .stl-file": "T1-230807"
+    }
+  ],
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "230530_DNP-004_Scaffold print 1_1x Scaf1_1x Scaf2_M02",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "T2-230807"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "",
+      "Link to .stl-file": "-",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "",
+      "Link to .stl-file": "-",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "230530_DNP-004_Scaffold print 1_1x Scaf1_1x Scaf2_M01",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "T1-230807"
+    }
+  ]
+]

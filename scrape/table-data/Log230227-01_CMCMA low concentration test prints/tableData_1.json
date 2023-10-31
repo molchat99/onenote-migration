@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "Name": "T1-230227",
+      "Polymer": "Carboxymethyl chitosan methacrylate 4",
+      "cpolymer [v%]": "0.55",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "-",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T2-230217",
+      "Polymer": "Carboxymethyl chitosan methacrylate 4",
+      "cpolymer [v%]": "0.77",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "•",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T3-230227",
+      "Polymer": "Carboxymethyl chitosan methacrylate 4",
+      "cpolymer [v%]": "1.1",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "-",
+      "Solvent": "DPBS"
+    }
+  ]
+]

@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 V8_B4_Single Material_LOG211112 (1) C:\\Users\\CoLab_Lap\\Documents\\CAD\\Marty - 02    03    04": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 V8_B4_Single Material_LOG211112 (1) C:\\Users\\CoLab_Lap\\Documents\\CAD\\Marty - 02    03    04": "01",
+      "Position": "V8_B4_Single Material_LOG211112 (1)",
+      "Filename of .stl": "C:\\Users\\CoLab_Lap\\Documents\\CAD\\Marty",
+      "Link to .stl-file": "-"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 V8_B4_Single Material_LOG211112 (1) C:\\Users\\CoLab_Lap\\Documents\\CAD\\Marty - 02    03    04": "02",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 V8_B4_Single Material_LOG211112 (1) C:\\Users\\CoLab_Lap\\Documents\\CAD\\Marty - 02    03    04": "03",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 V8_B4_Single Material_LOG211112 (1) C:\\Users\\CoLab_Lap\\Documents\\CAD\\Marty - 02    03    04": "04",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    }
+  ],
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "V8_B4_Single Material_LOG211112 (1)",
+      "Link to .stl-file": "C:\\Users\\CoLab_Lap\\Documents\\CAD\\Marty",
+      "Material/Washing/Drying": "-"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    }
+  ]
+]

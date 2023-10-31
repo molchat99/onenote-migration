@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Name": "T220728-1",
+      "Polymer": "GelMA 90P60",
+      "cpolymer [v%]": "8",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "-",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T220728-2",
+      "Polymer": "HAMA11/12 (1:1)",
+      "cpolymer [v%]": "1.2",
+      "cLAP [wt%]": "0.05",
+      "CTartrazine [mM]": "•",
+      "Solvent": "DPBS"
+    }
+  ]
+]

@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "Attempt No.": "I",
+      "Ink": "",
+      "layer height [µm]": "100",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "7",
+      "texposure_pos1 [s]": "7",
+      "texposure_pos2 [s]": "-",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Fail",
+      "comment": "Abgefallen nach ca. 60 Schichten?!",
+      "next steps": "•1st layer longer exposure: 10s •Reduce exposure time 7s --> 4s",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "II",
+      "Ink": "Brestimplant_prototype_handink",
+      "layer height [µm]": "",
+      "no. bottom layers": "5",
+      "texp.bottom  [s]": "10",
+      "texposure_pos1 [s]": "4",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "success",
+      "comment": "Project renamed to \" Breast_Implant_Video_handink  Aus <http://192.168.188.28:5000/slice>  \"",
+      "next steps": "•Add morw ink repeat •Add fluorescent BEAD ink (Spacepatch)",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "III",
+      "Ink": "Brestimplant_prototype_handink + Spacepatch beads ink (Hand Ink beads)",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

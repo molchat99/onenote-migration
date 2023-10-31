@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Name": "HAMA-30",
+      "Polymer": "HAMA",
+      "cpolymer [v%]": "2",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0",
+      "Solvent": "ECGM2"
+    },
+    {
+      "Name": "HA-NB",
+      "Polymer": "HA-NB",
+      "cpolymer [v%]": "2",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0",
+      "Solvent": "ECGM2"
+    }
+  ]
+]

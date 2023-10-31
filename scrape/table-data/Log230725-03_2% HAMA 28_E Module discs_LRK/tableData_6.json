@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "Position": "1",
+      "File name of material .Json": "HAMA28_2%_50s_1000µm",
+      "Material parameters": "{  \"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 50,  \"zHop\": 3,  \"zHopSpeed\": 50,  \"washCount\": 1,  \"washTime\": 1,  \"dabCount\": 1,  \"projectionDelay\": 1 }"
+    },
+    {
+      "Position": "2",
+      "File name of material .Json": "HAMA28_2%_45s_1000µm",
+      "Material parameters": "{  \"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 45,  \"zHop\": 3,  \"zHopSpeed\": 50,  \"washCount\": 1,  \"washTime\": 1,  \"dabCount\": 1,  \"projectionDelay\": 1 }"
+    },
+    {
+      "Position": "3",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    },
+    {
+      "Position": "4",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    }
+  ]
+]

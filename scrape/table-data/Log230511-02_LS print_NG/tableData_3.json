@@ -1,0 +1,84 @@
+[
+  [
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 LS print_5x1mm_NG.stl   02 LS print_5x1mm_NG.stl   03 LS print_5x1mm_NG.stl   04 LS print_5x1mm_NG.stl   05 LS print_5x1mm_NG.stl   06 LS print_5x1mm_NG.stl": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 LS print_5x1mm_NG.stl   02 LS print_5x1mm_NG.stl   03 LS print_5x1mm_NG.stl   04 LS print_5x1mm_NG.stl   05 LS print_5x1mm_NG.stl   06 LS print_5x1mm_NG.stl": "01",
+      "Position": "LS print_5x1mm_NG.stl",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 LS print_5x1mm_NG.stl   02 LS print_5x1mm_NG.stl   03 LS print_5x1mm_NG.stl   04 LS print_5x1mm_NG.stl   05 LS print_5x1mm_NG.stl   06 LS print_5x1mm_NG.stl": "02",
+      "Position": "LS print_5x1mm_NG.stl",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 LS print_5x1mm_NG.stl   02 LS print_5x1mm_NG.stl   03 LS print_5x1mm_NG.stl   04 LS print_5x1mm_NG.stl   05 LS print_5x1mm_NG.stl   06 LS print_5x1mm_NG.stl": "03",
+      "Position": "LS print_5x1mm_NG.stl",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 LS print_5x1mm_NG.stl   02 LS print_5x1mm_NG.stl   03 LS print_5x1mm_NG.stl   04 LS print_5x1mm_NG.stl   05 LS print_5x1mm_NG.stl   06 LS print_5x1mm_NG.stl": "04",
+      "Position": "LS print_5x1mm_NG.stl",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 LS print_5x1mm_NG.stl   02 LS print_5x1mm_NG.stl   03 LS print_5x1mm_NG.stl   04 LS print_5x1mm_NG.stl   05 LS print_5x1mm_NG.stl   06 LS print_5x1mm_NG.stl": "05",
+      "Position": "LS print_5x1mm_NG.stl",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 LS print_5x1mm_NG.stl   02 LS print_5x1mm_NG.stl   03 LS print_5x1mm_NG.stl   04 LS print_5x1mm_NG.stl   05 LS print_5x1mm_NG.stl   06 LS print_5x1mm_NG.stl": "06",
+      "Position": "LS print_5x1mm_NG.stl",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    }
+  ],
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "LS print_5x1mm_NG.stl",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "LS print_5x1mm_NG.stl",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "LS print_5x1mm_NG.stl",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "LS print_5x1mm_NG.stl",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "05",
+      "Filename of .stl": "LS print_5x1mm_NG.stl",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "06",
+      "Filename of .stl": "LS print_5x1mm_NG.stl",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    }
+  ]
+]

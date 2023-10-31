@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T1-230124",
+      "layer height [µm]": "500",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "30 / 40",
+      "texposure_pos2 [s]": "/",
+      "texposure_pos3 [s]": "/",
+      "texposure_pos4 [s]": "/",
+      "zSpeed": "50",
+      "status": "",
+      "comment": "Offset: -1.4 Layer 1 & 2 are exposed to light together (1mm is exposed) Überbrand",
+      "next steps": "Construct is kept  Printing head and Vat are cleaned Reduction exposure time of first layer (0) to 25s",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T1-230124",
+      "layer height [µm]": "500",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "25 / 40",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "50",
+      "status": "",
+      "comment": "Offset: -1.4 Construct looks nice, less Überbrand But edges is not perfect - maybe air bubble?",
+      "next steps": "Construct is kept Printing head and Vat are cleaned Printing with same settings is repeated",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "T1-230124",
+      "layer height [µm]": "500",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "25 / 40",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "50",
+      "status": "",
+      "comment": "Offset: -1.4 Constucts look nicely, but edges are not perfect",
+      "next steps": "Constructs is kept",
+      "pictures": ""
+    }
+  ]
+]

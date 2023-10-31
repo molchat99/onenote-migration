@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Name": "T1-221205",
+      "Polymer": "GelMA A32",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0,1",
+      "Filter [µM]": "0,2",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T2-221205",
+      "Polymer": "GelMA A32",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0,1",
+      "Filter [µM]": "0,45",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T3-221205",
+      "Polymer": "GelMA A32",
+      "cpolymer [v%]": "7",
+      "cLAP [wt%]": "0,1",
+      "Filter [µM]": "0,2",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T4-221205",
+      "Polymer": "GelMA A32",
+      "cpolymer [v%]": "7",
+      "cLAP [wt%]": "0,1",
+      "Filter [µM]": "0,45",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T5-221205",
+      "Polymer": "GelMA A33",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0,1",
+      "Filter [µM]": "0,2",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T6-221205",
+      "Polymer": "GelMA A33",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0,1",
+      "Filter [µM]": "0,45",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T7-221205",
+      "Polymer": "GelMA A33",
+      "cpolymer [v%]": "7",
+      "cLAP [wt%]": "0,1",
+      "Filter [µM]": "0,2",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T8-221205",
+      "Polymer": "GelMA A33",
+      "cpolymer [v%]": "7",
+      "cLAP [wt%]": "0,1",
+      "Filter [µM]": "0,45",
+      "Solvent": "DPBS"
+    }
+  ]
+]

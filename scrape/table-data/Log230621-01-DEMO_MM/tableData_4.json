@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "DEMO clear",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "prun"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "wash",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "wash"
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "dab",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "dab"
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "DEMO blue",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "print"
+    }
+  ]
+]

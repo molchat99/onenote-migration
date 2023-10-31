@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "HA-NB",
+      "layer height [µm]": "500",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "1.5",
+      "texposure_pos2 [s]": "•",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "",
+      "comment": "Offset -1.4 mm to compensate for glas homing procedure. Printing of only 2 mm height. 1 mL ink in reservoir. Undercuring & bad definition, model incomplete discarded",
+      "next steps": "Increase exposure time",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "3",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Offset -1.4 mm to compensate for glas homing procedure. Printing of only 2 mm height.  Remaining ink + 500 µL fresh ink Good prints,1 with airbubble model incomplete Washed in DPBS, transferred into 24 ULA wellplate",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Repetion of #2, with remaining ink",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

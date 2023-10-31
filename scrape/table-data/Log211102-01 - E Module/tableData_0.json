@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "GelMA A17 10%",
+      "layer height [µm]": "0.5µm",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "•",
+      "zSpeed": "100",
+      "status": "Successs",
+      "comment": "600µL deposited, Pause after S1, Resume, Pause after S3 + 600µL, resume until end. 2 prints with straight cut-offs; 1 perfect print.",
+      "next steps": "More ink for next run; in DPBS, 10 min LED; 2x keyence image",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

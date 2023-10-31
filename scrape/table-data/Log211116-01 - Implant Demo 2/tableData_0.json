@@ -1,0 +1,43 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T211115 MF",
+      "layer height [µm]": "100",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "20",
+      "texp.layer [s]": "3",
+      "zSpeed": "50",
+      "status": "Partial success",
+      "comment": "Ca. 70 mL fresh ink (44 °C) at start. Layer override for layer 0: 20 s exposure, Z speed 30. Z hop height set to 3 mm. No pause. Print almost perfect, only small material overhang at bottom (\"Saum\"). Channels do not suck air because material is so soft that bigger channels collapse when not submersed. Thus,directly judging if channels are free is not possible. Rinsing of print on printhead with warm tap water, focus on channel in-/outlets. Biggest channels sucks air -> free. Perfusion test with trypan blue solution (1:30, 191127 AKA) shows perfusion of big channel inlet and first two outlets, but not the rest. Rinsing off of trypan blue. Detachment of print from printhead with metal spatula, transfer into tap water bath. Post-curing in FormCure for 15 min at RT. Anew perfusion test shows same result as before post-curing: everything behind in-/outlets 1-3 is clotted -> already during printing or during post-curing due to insufficent rinsing. Testing fit to jaw bone/metal implant plastic replica: fit is mediocre, especially at pointy end (\"tip\"). Elevation on inner surface to interlock with metal implant are not working: difficult to press into holes, quickly are ripped off.",
+      "next steps": "Repeat print 1:1.",
+      "pictures": "+"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T211115 MF",
+      "layer height [µm]": "100",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "20",
+      "texp.layer [s]": "3",
+      "zSpeed": "50",
+      "status": "Partial success",
+      "comment": "Use of old ink in reservoir. No pause. Printing results like in run #1. Channels do not suck air because material is so soft that bigger channels collapse when not submersed. Rinsing of print on printhead with warm tap water, focus on channel in-/outlets. Detachment of print from printhead with metal spatula, transfer into tap water bath: \"tip\" of implant half ripped off. Post-curing in FormCure for 15 min at RT. Perfusion test shows same result like in run #1: everything behind in-/outlets 1-3 is clotted.",
+      "next steps": "Lower normal exposure time from 3 to 2.5 sec.",
+      "pictures": "+"
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "T211115 MF",
+      "layer height [µm]": "100",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "20",
+      "texp.layer [s]": "2.5",
+      "zSpeed": "50",
+      "status": "Success?",
+      "comment": "Use of old ink in reservoir. No pause. Print looks perfect on first glance. Channels do not suck air because material is so soft that bigger channels collapse when not submersed. Rinsing of print on printhead with warm tap water, focus on channel in-/outlets. Detachment of print from printhead with metal spatula, transfer into tap water bath. Post-curing in FormCure for 15 min at RT. This print is reserved for later inspection: transfer to 50 mL tube with tap water.",
+      "next steps": "-",
+      "pictures": "-"
+    }
+  ]
+]

@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "230706_JV_CC_TEST_SPHERES_001",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "4692ul"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "Washing"
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "drying"
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "230706_JV_CC_TEST_CLEAR_001",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "4103ul"
+    }
+  ]
+]

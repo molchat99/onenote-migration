@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "6% GelMA, 0.1 % LAP",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "45",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "100",
+      "status": "success",
+      "comment": "Global offset -1.4 for homing with glass.  1 mL.  Prints okay - not enough ink --> prints on outer edges of printhead were incomplete -> air bubble in middle print,  very soft overall",
+      "next steps": "Use more ink",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T1-221212",
+      "layer height [µm]": "",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "success",
+      "comment": "Global offset -1.4 for homing with glass.  2 mL.  Overcuring > outer prints okay - only little connection to neighboring prints -> cut with spatula, more overcuring in middle area - prints cut out with spatula, one print partly destroyed by air bubble -> all prints washed in warm DPBS, then taken of printhead into 24 ULA wellplates with medium (Invitrogen 221212CV)",
+      "next steps": "Print with remaining ink (pooled with leftover from print; wash dish + printhead;  Reduce exposure time,",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "42",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Global offset -1.4 for homing with glass.  ~0.5 mL.  Somehow more overcuring than before (propably ink was prepolymerized from before or higher concentrated due to pooling with leftover ink -> more scattering) 4 okay prints cut out with spatula -> same procedure as on previous print",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

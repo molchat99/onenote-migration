@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Name": "DEMO01",
+      "Polymer": "PEGDA700",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0",
+      "Solvent": "PBS"
+    },
+    {
+      "Name": "DEMO02",
+      "Polymer": "PEGDA700",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "1",
+      "Solvent": "PBS"
+    }
+  ]
+]

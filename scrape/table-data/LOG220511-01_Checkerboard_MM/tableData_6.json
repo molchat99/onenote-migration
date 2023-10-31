@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "Position": "1",
+      "File name of material .Json": "DEMO-01_3s_WASH",
+      "Material parameters": "{  \"temperature\": 35,  \"temperatureTolerance\": 50,  \"brightness\": 500,  \"exposureTime\": 3,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 2,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5 }"
+    },
+    {
+      "Position": "2",
+      "File name of material .Json": "DEMO-01_3s_WASH",
+      "Material parameters": "{  \"temperature\": 35,  \"temperatureTolerance\": 50,  \"brightness\": 500,  \"exposureTime\": 3,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 2,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5 }"
+    },
+    {
+      "Position": "3",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    },
+    {
+      "Position": "4",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    }
+  ]
+]

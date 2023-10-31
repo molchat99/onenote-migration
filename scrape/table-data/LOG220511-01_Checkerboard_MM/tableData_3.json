@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 3x3 checker_mat01.stl  DEMO-01_3s_WASH 02   WASH 03 3x3 checker_mat02.stl  DEMO-01_3s_WASH 04": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 3x3 checker_mat01.stl  DEMO-01_3s_WASH 02   WASH 03 3x3 checker_mat02.stl  DEMO-01_3s_WASH 04": "01",
+      "Position": "3x3 checker_mat01.stl",
+      "Filename of .stl": "",
+      "Link to .stl-file": "DEMO-01_3s_WASH"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 3x3 checker_mat01.stl  DEMO-01_3s_WASH 02   WASH 03 3x3 checker_mat02.stl  DEMO-01_3s_WASH 04": "02",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": "WASH"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 3x3 checker_mat01.stl  DEMO-01_3s_WASH 02   WASH 03 3x3 checker_mat02.stl  DEMO-01_3s_WASH 04": "03",
+      "Position": "3x3 checker_mat02.stl",
+      "Filename of .stl": "",
+      "Link to .stl-file": "DEMO-01_3s_WASH"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 3x3 checker_mat01.stl  DEMO-01_3s_WASH 02   WASH 03 3x3 checker_mat02.stl  DEMO-01_3s_WASH 04": "04",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    }
+  ],
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "3x3 checker_mat01.stl",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "DEMO-01_3s_WASH"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "WASH"
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "3x3 checker_mat02.stl",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "DEMO-01_3s_WASH"
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    }
+  ]
+]

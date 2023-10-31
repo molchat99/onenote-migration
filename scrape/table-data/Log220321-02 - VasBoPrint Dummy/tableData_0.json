@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T220222-1/T220321-2",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Failed",
+      "comment": "Material settings of T2 changed from 30 s exposure to 35 s. Global offset is 0.0. Vol. T1: 600 µL (layer 1), +400 L (layer 3). Vol. T2: 500 µL (layer 2). Ink gets distributed widely in layer 1 and leaves film instead of droplet after layer 1. Printed first layers look disturbed and half of them with missing pieces on one side. Strong suction force seems to have ripped away pieces. Same for layers 2 and 3: parts of constructs get lost, possibly ripped away. Incomplete coverage with T2 during layer 2 -> not all channels complete. Rolling test with 2x prints (1x of each length): 7.0 mm fit better around metal struts -> better length. Washing with big metal printhead different and more tedious: no dipping possible, but repeated rinsing of constructs on printhead with warm filtered DPBS.",
+      "next steps": "Removal/cleaning of ink vat. Change of printhead to small gen 2/3 printer printhead. Global offset changed from 0.0 to 1.2: this value was determined by examining indentation of small printhead into ink vat. -> see Log220321-03",
+      "pictures": ""
+    }
+  ]
+]

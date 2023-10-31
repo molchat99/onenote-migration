@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "Name": "T1-230817",
+      "Polymer": "CMCMA 4+5",
+      "cpolymer [v%]": "1.5",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "•",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T2-230817",
+      "Polymer": "CMCMA 4+5",
+      "cpolymer [v%]": "1.5",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0.2",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "T3-230817 -- Equal mix of 1x exposed T1230817 & fresh ink (accordingly only half of the LAP amount & cell number is added, tratrazine is added with regard to the whole volume)",
+      "Polymer": "CMCMA 4+5",
+      "cpolymer [v%]": "1.5",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0.2",
+      "Solvent": "DPBS"
+    }
+  ]
+]

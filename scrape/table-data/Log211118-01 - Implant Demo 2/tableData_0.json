@@ -1,0 +1,17 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T211115 MF",
+      "layer height [µm]": "100",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "20",
+      "texp.layer [s]": "2.5",
+      "zSpeed": "50",
+      "status": "Partial success",
+      "comment": "Ca. 65 mL fresh ink (37 °C) at start. Layer override for layer 0: 20 s exposure, Z speed 30. Z hop height set to 3 mm. No pause. Print almost perfect, material overhang at bottom (\"Saum\", ca. 1 mm wide). Other than that, perfect. Rinsing print on printhead under running warm water. Detachment with metal spatula under running tap water. Fit check with metal implant replica: better fit than 211116 (V1) but not ideal yet.",
+      "next steps": "Redesign ST implant V2 -> V3 and printing with same parameters.",
+      "pictures": "+"
+    }
+  ]
+]

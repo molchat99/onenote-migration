@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 231002_Micro discs 3x1mm 9x_2 230808_Micro discs_ 3x1mm_12x 5% GelMA 90P60_0.5% HAMA30_0.1% LAP, 0.2 mM Tartrazine 02    03    04": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 231002_Micro discs 3x1mm 9x_2 230808_Micro discs_ 3x1mm_12x 5% GelMA 90P60_0.5% HAMA30_0.1% LAP, 0.2 mM Tartrazine 02    03    04": "01",
+      "Position": "231002_Micro discs 3x1mm 9x_2",
+      "Filename of .stl": "230808_Micro discs_ 3x1mm_12x",
+      "Link to .stl-file": "5% GelMA 90P60_0.5% HAMA30_0.1% LAP, 0.2 mM Tartrazine"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 231002_Micro discs 3x1mm 9x_2 230808_Micro discs_ 3x1mm_12x 5% GelMA 90P60_0.5% HAMA30_0.1% LAP, 0.2 mM Tartrazine 02    03    04": "02",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 231002_Micro discs 3x1mm 9x_2 230808_Micro discs_ 3x1mm_12x 5% GelMA 90P60_0.5% HAMA30_0.1% LAP, 0.2 mM Tartrazine 02    03    04": "03",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 231002_Micro discs 3x1mm 9x_2 230808_Micro discs_ 3x1mm_12x 5% GelMA 90P60_0.5% HAMA30_0.1% LAP, 0.2 mM Tartrazine 02    03    04": "04",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": ""
+    }
+  ],
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "231002_Micro discs 3x1mm 9x_2",
+      "Link to .stl-file": "230808_Micro discs_ 3x1mm_12x",
+      "Material/Washing/Drying": "5% GelMA 90P60_0.5% HAMA30_0.1% LAP, 0.2 mM Tartrazine"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    }
+  ]
+]

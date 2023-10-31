@@ -1,0 +1,30 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T211012-1 AT",
+      "layer height [µm]": "100",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "15",
+      "texp.layer [s]": "3",
+      "zSpeed": "100",
+      "status": "Success",
+      "comment": "Ca. 50 fresh mL ink at start. No layer overrides except for layer 0: 15 s exposure. It was aimed to reduce Z speed from 100 to 50, but print accidentally still was done with 100 (except for layer 0: there, 50). Pause after layer 3: base layers look perfect/attached to printhead. After completion, print completely attached to printhead. On one side at base, ca. 1 mm wide step visible (layer shift?), ca. 0.5 mm high. Otherwise, no visible defects. Channels mainly free (empty ink/suck air upon tilting). Dipping of whole printhead in warm tap water bath, then cautiously holding under warm tap water to perfuse channels. Print torn into two when tried to remove it from printhead. Perfusion test with remaining piece and 1:30 trypan blue solution (191127 AKA).",
+      "next steps": "Reduce Z speed from 100 to 30.",
+      "pictures": "y"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T211012-1 AT",
+      "layer height [µm]": "100",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "15",
+      "texp.layer [s]": "3",
+      "zSpeed": "30",
+      "status": "Success",
+      "comment": "Rest ink of previous print. No pause. After completion, print completely attached to printhead. No visible defects. Channels all free (empty ink/suck air upon tilting). Dipping of whole printhead in warm tap water bath, then cautiously holding under warm tap water to perfuse channels. Print slightly damaged (shaving open some of the big channels) when removing from printhead with metal spatula (Spachtel). Perfusion test trypan blue solution successful. Assembly with implant replica successful. Fit OK. Post-curing 15 min at RT in FormCure (on 10 cm petri dish, wetted): print completely discoloured and tougher. Put into freeze-dryer, still attached to implant replica.",
+      "next steps": "Alter STL to include 2-3x prints. Alter STL to increase base layer thickness. Increase Z speed from 30 to 50. Pool remaining ink and filter through 0.45 µm bottle top.",
+      "pictures": "y"
+    }
+  ]
+]

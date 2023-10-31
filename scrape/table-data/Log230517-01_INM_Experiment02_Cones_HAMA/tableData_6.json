@@ -1,0 +1,19 @@
+[
+  [
+    {
+      "Position": "1",
+      "File name of material .Json": "HAMA_4%_XXs_XXXXµm",
+      "Material parameters": "{  \"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": []  \"zHop\": 3,  \"zHopSpeed\": 50,  \"washCount\": 1,  \"washTime\": 1,  \"dabCount\": 1,  \"projectionDelay\": 1 }"
+    },
+    {
+      "Position": "",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    },
+    {
+      "Position": "",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    }
+  ]
+]

@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Name": "AMT-002 ink 1",
+      "Polymer": "GelMA-A28",
+      "cpolymer [v%]": "7",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0.2",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "AMT-002 ink 2",
+      "Polymer": "CMCMA-7",
+      "cpolymer [v%]": "2",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0.2",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "AMT-002 ink 3",
+      "Polymer": "HAMA-11",
+      "cpolymer [v%]": "2",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0.2",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "DEMO 3",
+      "Polymer": "PEGDA 700",
+      "cpolymer [v%]": "7",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0.2",
+      "Solvent": "DPBS"
+    }
+  ]
+]

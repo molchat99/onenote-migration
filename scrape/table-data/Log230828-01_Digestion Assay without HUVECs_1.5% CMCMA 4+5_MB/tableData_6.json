@@ -1,0 +1,9 @@
+[
+  [
+    {
+      "Position": "1",
+      "File name of material .Json": "CMCMA4 1.5%_0.1% LAP_1mm_20s",
+      "Material parameters": "\"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 20,  \"zHop\": 3,  \"zHopSpeed\": 100,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    }
+  ]
+]

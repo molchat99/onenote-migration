@@ -1,0 +1,9 @@
+[
+  [
+    {
+      "Position": "1",
+      "File name of material .Json": "GelMA_A32_7%_500µm",
+      "Material parameters": "\"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 12,  \"zHop\": 3,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    }
+  ]
+]

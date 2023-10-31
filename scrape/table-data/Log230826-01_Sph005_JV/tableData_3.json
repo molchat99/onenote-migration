@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230813_Sph003(0.1mmbase)_sphereink  4374ul 02   none 03   none 04 230813_Sph003(0.1mmbase)_pureink  4103ul": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230813_Sph003(0.1mmbase)_sphereink  4374ul 02   none 03   none 04 230813_Sph003(0.1mmbase)_pureink  4103ul": "01",
+      "Position": "230813_Sph003(0.1mmbase)_sphereink",
+      "Filename of .stl": "",
+      "Link to .stl-file": "4374ul"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230813_Sph003(0.1mmbase)_sphereink  4374ul 02   none 03   none 04 230813_Sph003(0.1mmbase)_pureink  4103ul": "02",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": "none"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230813_Sph003(0.1mmbase)_sphereink  4374ul 02   none 03   none 04 230813_Sph003(0.1mmbase)_pureink  4103ul": "03",
+      "Position": "",
+      "Filename of .stl": "",
+      "Link to .stl-file": "none"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 230813_Sph003(0.1mmbase)_sphereink  4374ul 02   none 03   none 04 230813_Sph003(0.1mmbase)_pureink  4103ul": "04",
+      "Position": "230813_Sph003(0.1mmbase)_pureink",
+      "Filename of .stl": "",
+      "Link to .stl-file": "4103ul"
+    }
+  ],
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "230813_Sph003(0.1mmbase)_sphereink",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "4374ul"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "none"
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "none"
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "230813_Sph003(0.1mmbase)_pureink",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "4103ul"
+    }
+  ]
+]

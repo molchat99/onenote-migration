@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T1-221209",
+      "layer height [µm]": "500",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "40",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "150",
+      "status": "",
+      "comment": "Global offset -1.4. 500 µL ink Pause after layer 1, good print, very soft. Paused too late --> next layer was not projected on previous structure",
+      "next steps": "Dont pause, increase time to 45 sec",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "45",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Ring structures attached to VAT- > change zHOP speed , structures quite good",
+      "next steps": "Decrease zHOP speed to 75",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Ring structures attached to VAT, looks good",
+      "next steps": "Change layer height to 250 µm, decreae exposure time to 25 sec. Print base layer with 45 sec in one layer",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "",
+      "layer height [µm]": "250",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "45",
+      "texposure_pos1 [s]": "25",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "Fail",
+      "comment": "Ring structures in VAT, disc on printhead",
+      "next steps": "Further reduce layer height? Increae GelMA conc? Change zHOp Speed? Change exposure time",
+      "pictures": ""
+    }
+  ]
+]

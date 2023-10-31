@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "230215_EMoDisc_3x_3x6mm_3mm distance.stl",
+      "Link to .stl-file": "C:\\Users\\CoLab_Lap\\Desktop\\CAD Modelle\\Compressive Testing",
+      "Material/Washing/Drying": "{  \"globalOffset\": 0.9,  \"washOffset\": 0,  \"hoverFactor\": 0.1,  \"endInWash\": false,  \"defaultXYSpeed\": 250,  \"defaultZSpeed\": 150,  \"layerHeight\": 0.5,  \"switchDishHeight\": 60 }"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    }
+  ]
+]

@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "Position": "1",
+      "File name of material .Json": "9% GelMA+0.5%HAMA+0,2%LAP+0.5mM blocker_220505MF",
+      "Material parameters": "\"temperature\": 40,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 5,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5"
+    },
+    {
+      "Position": "2",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    },
+    {
+      "Position": "3",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    },
+    {
+      "Position": "4",
+      "File name of material .Json": "",
+      "Material parameters": ""
+    }
+  ]
+]

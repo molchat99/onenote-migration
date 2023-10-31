@@ -1,0 +1,18 @@
+[
+  [
+    {
+      "Hardware Parts": "Printhead",
+      "Position 1": "D40_04",
+      "Position 2": "D40_04",
+      "Position 3": "/",
+      "Position 4": "/"
+    },
+    {
+      "Hardware Parts": "Ink reservoir/Drying",
+      "Position 1": "Al_009",
+      "Position 2": "Al_007 (VBP only)",
+      "Position 3": "/",
+      "Position 4": "/"
+    }
+  ]
+]

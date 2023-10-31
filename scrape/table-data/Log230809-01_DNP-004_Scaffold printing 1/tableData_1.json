@@ -1,0 +1,31 @@
+[
+  [
+    {
+      "Name": "T1-230807 MF",
+      "Polymer": "GelMA 90P60",
+      "cpolymer [v%]": "5",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0.2",
+      "Fluorospheres [dil]": "",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "",
+      "Polymer": "HAMA 26",
+      "cpolymer [v%]": "0.5",
+      "cLAP [wt%]": "•",
+      "CTartrazine [mM]": "•",
+      "Fluorospheres [dil]": "",
+      "Solvent": "-"
+    },
+    {
+      "Name": "T2-230807 MF",
+      "Polymer": "CMCMA 7",
+      "cpolymer [v%]": "2",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0.2",
+      "Fluorospheres [dil]": "1:500",
+      "Solvent": "DPBS"
+    }
+  ]
+]

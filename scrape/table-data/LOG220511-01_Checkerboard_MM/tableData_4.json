@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "3x3 checker_mat01.stl",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "DEMO-01_3s_WASH"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "WASH"
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "3x3 checker_mat02.stl",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "DEMO-01_3s_WASH"
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": ""
+    }
+  ]
+]

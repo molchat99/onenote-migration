@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "Name": "A30 Ctrl",
+      "Polymer": "GelMa A30",
+      "cpolymer [v%]": "7",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "A30 TTZ LO",
+      "Polymer": "GelMa A30",
+      "cpolymer [v%]": "7",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0.2",
+      "Solvent": "DPBS"
+    },
+    {
+      "Name": "A30 TTZ HI",
+      "Polymer": "GelMa A30",
+      "cpolymer [v%]": "7",
+      "cLAP [wt%]": "0.1",
+      "CTartrazine [mM]": "0.5",
+      "Solvent": "DPBS"
+    }
+  ]
+]

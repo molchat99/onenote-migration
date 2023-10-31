@@ -1,0 +1,32 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "Demo02",
+      "layer height [µm]": "100",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "0",
+      "texp.layer [s]": "4",
+      "zSpeed": "150",
+      "zHop [mm]": "1",
+      "status": "Success",
+      "comment": "•File sliced in about 10min •All logos printed •Gyroid structure printed",
+      "next steps": "Add more ink, repeat",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texp.layer [s]": "",
+      "zSpeed": "",
+      "zHop [mm]": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

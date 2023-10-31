@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T3-230414",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "20 14 10",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Global offset to -1.4, homing with glass slide.   500 µl Good print - \"soft\" edges, washing in DPBS , 10 min post curing",
+      "next steps": "Switch to STL with 3 cylinders Clean VAT and print head",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T3-230414",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "20 14 10",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Global offset to -1.4, homing with glass slide.  1.5 mL Good prints- \"soft\" edges, washing in DPBS, 10 min post curing One cylinder has an airbubble",
+      "next steps": "1x cylinder is printed to substitute the one with the bubble",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "T3-230414",
+      "layer height [µm]": "1000",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "20 14 10",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Success!",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

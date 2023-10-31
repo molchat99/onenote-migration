@@ -1,0 +1,22 @@
+[
+  [
+    {
+      "Name": "Demo_01",
+      "Polymer": "PEGDA 700",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0.5",
+      "CTartrazine [mM]": "",
+      "Solvent": "DPBS",
+      "other": "Acryl 2.5%"
+    },
+    {
+      "Name": "Demo_01_pink",
+      "Polymer": "PEGDA 700",
+      "cpolymer [v%]": "10",
+      "cLAP [wt%]": "0.5",
+      "CTartrazine [mM]": "",
+      "Solvent": "DPBS",
+      "other": "Acryl 2.5%"
+    }
+  ]
+]

@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T220824-1/T220728-2",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Success",
+      "comment": "Global offset is -1.4. AT is printing. Vol. T1: 500 µL (layer 1), + 300 µL (layer 3). Vol. T2: 400 µL (layer 2). Washing channels: dipping, removing excess liquid with KimWipe (also NOT TOUCHING channels). All 4 prints complete and collected in 2 mL tube with 1.8 mL DPBS for construct analysis.",
+      "next steps": "Keep identical settings but touch channels with tissue in next run.",
+      "pictures": "1"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "T220824-1/T220728-2",
+      "layer height [µm]": "100",
+      "no. bottom layers": "•",
+      "texp.bottom  [s]": "•",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "•",
+      "texposure_pos4 [s]": "•",
+      "zSpeed": "150",
+      "status": "Success",
+      "comment": "Global offset is -1.4. DP is printing, but AT does washing of HAMA channels. Vol. T1: rest run #1 (layer 1), + 300 µL (layer 3). Vol. T2: rest run #1 +200 µL (layer 2). Washing channels: dipping, removing excess liquid with KimWipe (also TOUCHING channels). All 4 prints complete and collected in 2 mL tube with 1.8 mL DPBS for construct analysis.",
+      "next steps": "Change offset to -1.5.",
+      "pictures": "2"
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "T220824-1/T220728-2",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Success",
+      "comment": "Global offset is -1.5. DP is printing. Vol. T1: 500 µL (layer 1), + 300 µL (layer 3). Vol. T2: 400 µL (layer 2). Washing channels: dipping, removing excess liquid with KimWipe (also NOT TOUCHING channels). All 4 prints complete and collected in 2 mL tube with 1.8 mL DPBS for construct analysis.",
+      "next steps": "Cleaning both ink vats. Keep identical settings but do a re-homing (all positions).",
+      "pictures": "-"
+    },
+    {
+      "Attempt No.": "4",
+      "Ink": "T220824-1/T220728-2",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "Success",
+      "comment": "Global offset is -1.5. DP is printing. Vol. T1: rest run #3 (layer 1), + 300 µL (layer 3). Vol. T2: rest run #3 +200 µL (layer 2). Washing channels: dipping, removing excess liquid with KimWipe (also NOT TOUCHING channels). All 4 prints complete and collected in 2 mL tube with 1.8 mL DPBS for construct analysis.",
+      "next steps": "-",
+      "pictures": "-"
+    }
+  ]
+]

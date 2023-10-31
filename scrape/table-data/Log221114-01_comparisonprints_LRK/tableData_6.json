@@ -1,0 +1,24 @@
+[
+  [
+    {
+      "Position": "1",
+      "File name of material .Json": "GelMA10%_0.1%_LAP_500µm",
+      "Material parameters": "{  \"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 12,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5 }"
+    },
+    {
+      "Position": "1",
+      "File name of material .Json": "GelMA7%_0.1%_LAP_500µm",
+      "Material parameters": "{  \"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 14,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5 }"
+    },
+    {
+      "Position": "1",
+      "File name of material .Json": "PEGDA10%_0.1%_LAP_500µm",
+      "Material parameters": "{  \"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 3.5,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5 }"
+    },
+    {
+      "Position": "1",
+      "File name of material .Json": "PEGDA7%_0.1%_LAP_500µm",
+      "Material parameters": "{  \"temperature\": 37,  \"temperatureTolerance\": 5,  \"brightness\": 500,  \"exposureTime\": 4,  \"zHop\": 1,  \"zHopSpeed\": 150,  \"washCount\": 0,  \"washTime\": 0,  \"dabCount\": 0,  \"projectionDelay\": 0.5 }"
+    }
+  ]
+]

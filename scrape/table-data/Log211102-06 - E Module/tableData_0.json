@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "GelMA A19 7%",
+      "layer height [µm]": "0.5µm",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "•",
+      "zSpeed": "100",
+      "status": "Successs",
+      "comment": "600µL deposited, Pause after S1, Resume, Pause after S3 + 600µL, resume until end. 3 perfect prints",
+      "next steps": "in DPBS, 10 min LED old chamber 2; 2x keyence image;",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "600µL deposited, Pause after S1, Resume, Pause after S3 + 600µL, resume until end. 3 perfect prints",
+      "next steps": "in DPBS, 10 min LED Form Labs chamber; 2x keyence image",
+      "pictures": ""
+    }
+  ]
+]

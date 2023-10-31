@@ -1,0 +1,20 @@
+[
+  [
+    {
+      "Name": "Ha-Nb-tart-LAP01",
+      "Polymer": "Hyaluronic acid",
+      "cpolymer [v%]": "3",
+      "cLAP [wt%]": "0,1",
+      "CTartrazine [mM]": "0,5",
+      "Solvent": "PBS"
+    },
+    {
+      "Name": "Ha-Nb-tart-LAP05",
+      "Polymer": "Hyaluronic acid",
+      "cpolymer [v%]": "<3",
+      "cLAP [wt%]": "0,5",
+      "CTartrazine [mM]": "<0,5",
+      "Solvent": "PBS"
+    }
+  ]
+]

@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "layer height [µm]": "100",
+      "no. bottom layers": "0",
+      "texp.bottom  [s]": "•",
+      "texp.layer [s]": "4",
+      "zSpeed": "150",
+      "status": "Success",
+      "comment": "SAF",
+      "next steps": "lunch",
+      "pictures": "You wish"
+    },
+    {
+      "Attempt No.": "2",
+      "layer height [µm]": "100",
+      "no. bottom layers": "2",
+      "texp.bottom  [s]": "10",
+      "texp.layer [s]": "4",
+      "zSpeed": "150",
+      "status": "Succes",
+      "comment": "Air bubbles, print started from 80 mm height",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

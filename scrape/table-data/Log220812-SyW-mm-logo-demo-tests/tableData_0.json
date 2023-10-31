@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "Vortexed pink ink about 1 hour before printing, then separated it from the white that settled (I think this stirred up the bigger pink acrylic particles)",
+      "layer height [µm]": "200",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "5",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "6",
+      "zSpeed": "",
+      "status": "Partial success",
+      "comment": "No bubbles, but inconsistent coloring still",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "Tried centrifuging the ink for about 2 minutes at 2500 rpm, then taking only the ink from the top, which still appeared pink enough",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "Partial success",
+      "comment": "Cured well, no bubbles, but too light (especially in the middle). Also tried printing JUST the pink layer (seen at the bottom) on the print head, and coloring turned out great. Thinking about lowering exposure time for transparent layer to make channels wider for pink ink to cure (not today though).",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "3",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "fail",
+      "comment": "Too many air bubbles :(",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "4",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "Partial success",
+      "comment": "SWITCHED VATS (Lukas's A001 in slot 4, and A002 in slot 1)",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

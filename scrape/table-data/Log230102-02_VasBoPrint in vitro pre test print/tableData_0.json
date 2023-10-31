@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "T1-230102 / T2-230102",
+      "layer height [µm]": "100",
+      "no. bottom layers": "-",
+      "texp.bottom  [s]": "-",
+      "texposure_pos1 [s]": "30",
+      "texposure_pos2 [s]": "35",
+      "texposure_pos3 [s]": "-",
+      "texposure_pos4 [s]": "-",
+      "zSpeed": "150",
+      "status": "fail",
+      "comment": "Global offset is -1.4 to compensate glass-supported homing procedure.  GelMA (T1) and HAMA (T2). Vol. T1: 600 µL (layer 1), + 600 µL (layer 3). Vol. T2: 600 µL (layer 2).   erroneously pressed start button after layer 1 --> wrong projection in wrong bath; couldn't continue with second layer -->  print canceled",
+      "next steps": "Recalibrate and homeed",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texposure_pos1 [s]": "",
+      "texposure_pos2 [s]": "",
+      "texposure_pos3 [s]": "",
+      "texposure_pos4 [s]": "",
+      "zSpeed": "",
+      "status": "success",
+      "comment": "Global offset is -1.4 to compensate glass-supported homing procedure.  GelMA (T1) and HAMA (T2). Vol. T1: 600 µL (layer 1), + 600 µL (layer 3). Vol. T2: 600 µL (layer 2). Washing channels: dipping, then rinsing 3x1 mL warm DPBS with pipette, removing excess liquid with KimWipe (touching channels). Store in warm ECGM2 until further use.   Prints okay, some bigger cell aggregate patches in layer 2 (too long time after print one? -> couldn't be washed off), rest of prints good  2 prints were R&g using T3-230102. Transferring all at the same time into separate 24-wells with 0.5 mL 2x Hase in ECGM2 +P/S (230102MF ).   Note: no cells in GelMA, HUVECS and MSCs are mixed in equal parts into HAMA",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

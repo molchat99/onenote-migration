@@ -1,0 +1,43 @@
+[
+  [
+    {
+      "Attempt No.": "1",
+      "Ink": "Demo-02",
+      "layer height [µm]": "500",
+      "no. bottom layers": "1",
+      "texp.bottom  [s]": "10",
+      "texp.layer [s]": "3",
+      "zSpeed": "50",
+      "status": "",
+      "comment": "Fail; printer failed to generate adequate amount of layers, when layer height > 0.1 mm C:\\Users\\CoLab_Lap\\Desktop\\CAD Modelle\\E module",
+      "next steps": "",
+      "pictures": "-"
+    },
+    {
+      "Attempt No.": "2",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texp.layer [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "Slices with height of 0.01 mm generated and only every 5th slice used; remaining slices manually discarded; Final print seemed to have only 5 instead of 6 layers",
+      "next steps": "",
+      "pictures": ""
+    },
+    {
+      "Attempt No.": "",
+      "Ink": "",
+      "layer height [µm]": "",
+      "no. bottom layers": "",
+      "texp.bottom  [s]": "",
+      "texp.layer [s]": "",
+      "zSpeed": "",
+      "status": "",
+      "comment": "",
+      "next steps": "",
+      "pictures": ""
+    }
+  ]
+]

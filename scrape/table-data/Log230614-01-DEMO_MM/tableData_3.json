@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 DEMO clear  prun 02 wash  wash 03 dab  dab 04 DEMO blue  print": "Position",
+      "Position": "Filename of .stl",
+      "Filename of .stl": "Link to .stl-file",
+      "Link to .stl-file": "Material/Washing/Drying"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 DEMO clear  prun 02 wash  wash 03 dab  dab 04 DEMO blue  print": "01",
+      "Position": "DEMO clear",
+      "Filename of .stl": "",
+      "Link to .stl-file": "prun"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 DEMO clear  prun 02 wash  wash 03 dab  dab 04 DEMO blue  print": "02",
+      "Position": "wash",
+      "Filename of .stl": "",
+      "Link to .stl-file": "wash"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 DEMO clear  prun 02 wash  wash 03 dab  dab 04 DEMO blue  print": "03",
+      "Position": "dab",
+      "Filename of .stl": "",
+      "Link to .stl-file": "dab"
+    },
+    {
+      "Position Filename of .stl Link to .stl-file  Material/Washing/Drying 01 DEMO clear  prun 02 wash  wash 03 dab  dab 04 DEMO blue  print": "04",
+      "Position": "DEMO blue",
+      "Filename of .stl": "",
+      "Link to .stl-file": "print"
+    }
+  ],
+  [
+    {
+      "Position": "01",
+      "Filename of .stl": "DEMO clear",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "prun"
+    },
+    {
+      "Position": "02",
+      "Filename of .stl": "wash",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "wash"
+    },
+    {
+      "Position": "03",
+      "Filename of .stl": "dab",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "dab"
+    },
+    {
+      "Position": "04",
+      "Filename of .stl": "DEMO blue",
+      "Link to .stl-file": "",
+      "Material/Washing/Drying": "print"
+    }
+  ]
+]
