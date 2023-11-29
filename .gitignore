@@ -1,1 +1,5 @@
 credentials.json
+cleaning_storage/data-frames-raw
+cleaning_storage/data-frames-cleaned
+cleaning_storage/table-data-cleaned
+scrape/table-data

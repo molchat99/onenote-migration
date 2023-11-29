@@ -1,9 +1,0 @@
-[
-  [
-    {
-      "Metadata": "{  \"title\": \"220216TL_MM_WB\",  \"comment\": \"wellbrick19x\" }",
-      "Project settings": "{  \"globalOffset\": 0,  \"washOffset\": 30,  \"endInWash\": false,  \"defaultXYSpeed\": 1000,  \"defaultZSpeed\": 500,  \"layerHeight\": 0.1,  \"switchDishHeight\": 50 }",
-      "Global settings": "{  \"washRule\": \"NEVER\",  \"dabTime\": 1 }"
-    }
-  ]
-]

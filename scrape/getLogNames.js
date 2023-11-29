@@ -22,6 +22,6 @@ module.exports = async function getLogNames(driver) {
         console.error('Error:', error);
     } finally {
         // Close the WebDriver instance
-        //await driver.quit();
+        await driver.quit();
     }
 }
