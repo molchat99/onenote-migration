@@ -1,0 +1,56 @@
+{
+    "hardwareSetup": {
+        "printhead": {
+            "d4001": ["d4001", "d40_01", "br1"],
+            "d4002": ["d4002", "d40_02"],
+            "d4003": ["d4003", "d40-03", "cr5"],
+            "d4004": ["d4004", "d40_04", "gen4"],
+            "small": ["small", "Small"],
+            "large": ["big", "large", "black metal", "metal black", "4 cm", "aluminium black", "alu", "black"],
+            "other": []
+        },
+        "inkreservoir_drying": {
+            "al_001": ["001", "big metal black", "black metal", "black alu vat", "metal black"],
+            "al_002": ["002", "al_220", "al_200"],
+            "al_003": ["003"],
+            "al_004": ["004"],
+            "al_005": ["005"],
+            "al_006": ["006", "al_060"],
+            "al_007": ["007"],
+            "al_008": ["008", "hepabrick"],
+            "al_009": ["009", "silver metal", "torpedo"],
+            "al_010": ["010"],
+            "al_011": ["blue metal", "aluminium blue", "metal blue", "aluminum blue"],
+            "al_012": ["tartrazino"],
+            "wash": ["wash", "ceramic"],
+            "dry": ["dry", "drying"],
+            "other": []
+        }
+    },
+    "bioInks": {
+        "polymer": {
+            "gelma": ["gelma", "glema", "elma"],
+            "hama": ["hama", "hyaluronic", "hyaloron", "acid"],
+            "pegda": ["pegda", "pegda700"],
+            "cmcma": ["cmcma", "carboxymethyl", "chitosan"],
+            "dextran": ["dextran"],
+            "hanb": ["handb", "ha_nb", "ha"]
+        },
+        "solvent": {
+            "dpbs": ["dpbs"],
+            "pbs": ["pbs"],
+            "rpmi": ["rpmi"],
+            "ddh2o": ["ddh2o", "ddh20"],
+            "williams e": ["williams"]
+        }
+    },
+    "printingLog": {
+        "status": {
+            "success": ["success", "Success", "succes", "succesfull", "successfull", "succsess", "sucess", "complete", "ok", "succe"],
+            "failed": ["failed", "fail"],
+            "partial success": ["partial", "semi", "almost good"],
+            "aborted": ["aborted", "cancelled"]
+        }
+    }
+  }
+  
